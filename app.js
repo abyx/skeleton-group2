@@ -33,6 +33,10 @@ app.get('/example', function(request, response) {
   response.send({success: true});
 });
 
+app.get('/placeshare', function(request, response) {
+  response.send({success: 99});
+});
+
 app.post('/example/:id', function(request, response) {
   console.log(request.body, request.params.id, 'query', request.query);
   response.sendStatus(200);
