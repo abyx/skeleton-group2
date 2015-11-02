@@ -40,6 +40,11 @@ app.get('/placeshare', function(request, response) {
   response.send({success: 99});
 });
 
+app.put('/placeshareadd/:emp_id/:room_number', function(request, response) {
+  console.log(request.body, request.params.emp_id,request.params.room_number, 'query', request.query);
+  response.sendStatus(200);
+});
+
 app.post('/example/:id', function(request, response) {
   console.log(request.body, request.params.id, 'query', request.query);
   response.sendStatus(200);
