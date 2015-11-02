@@ -1,4 +1,5 @@
 var Q = require('q');
+var errorHandler = require('./ErrorHandler');
 var express = require('express');
 var bodyParser = require('body-parser');
 var elasticsearch = require('elasticsearch');
@@ -9,6 +10,8 @@ var client = new elasticsearch.Client({ host: 'localhost:9200', log: 'trace', ap
 
 app.use(express.static('public'));
 app.use(bodyParser.json());
+
+errorHandler.getErrorString(2);
 
 app.param('id', function(req, res, next) {
   next();
