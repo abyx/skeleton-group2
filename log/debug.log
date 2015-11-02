@@ -1,2 +1,21 @@
-2015-11-02T12:57:01.311Z - info: log to file
-2015-11-02T12:57:01.312Z - info: hello bla
+2015-11-02T13:01:36.443Z - info:  [*] Listening at http://:::3000
+2015-11-02T13:04:32.334Z - info:  [*] Listening at http://:::3000
+2015-11-02T13:04:32.336Z - info: ::
+2015-11-02T13:32:32.509Z - info:  [*] Listening at http://:::3000
+2015-11-02T14:18:11.110Z - info:  [*] Listening at http://:::3000
+2015-11-02T14:21:42.941Z - info:  [*] Listening at http://:::3000
+2015-11-02T14:26:10.377Z - info:  [*] Listening at http://:::3000
+2015-11-02T14:27:50.564Z - info:  [*] Listening at http://:::3000
+2015-11-02T14:40:17.430Z - info:  [*] Listening at http://:::3000
+2015-11-02T14:40:46.047Z - info:  [*] Listening at http://:::3000
+2015-11-02T14:42:44.485Z - info:  [*] Listening at http://:::3000
+2015-11-02T14:43:09.615Z - info:  [*] Listening at http://:::3000
+2015-11-02T14:43:12.768Z - info: Dining room id 1 is invalid
+2015-11-02T14:43:13.896Z - info: Dining room id 1 is invalid
+2015-11-02T14:44:00.507Z - info:  [*] Listening at http://:::3000
+2015-11-02T14:44:13.755Z - info: Dining room id 1 is valid
+2015-11-02T14:44:18.790Z - info: Dining room id 4 is invalid
+2015-11-02T14:46:26.039Z - info:  [*] Listening at http://:::3000
+2015-11-02T14:46:30.360Z - info: Dining room id 4 is invalid
+2015-11-02T14:46:31.547Z - info: Dining room id 4 is invalid
+2015-11-02T14:46:32.642Z - info: Dining room id 4 is invalid

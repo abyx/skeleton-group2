@@ -1,5 +1,6 @@
 var Q = require('q');
 var errorHandler = require('./ErrorHandler');
+var validation = require('./Validation');
 var express = require('express');
 var bodyParser = require('body-parser');
 var elasticsearch = require('elasticsearch');
@@ -42,7 +43,17 @@ app.get('/placeshare', function(request, response) {
 
 app.put('/placeshareadd/:emp_id/:room_number', function(request, response) {
   console.log(request.body, request.params.emp_id,request.params.room_number, 'query', request.query);
-  response.sendStatus(200);
+  
+  if (request.params.room_number){
+	  if (validation.IsdiningRoom(request.params.room_number)){
+		  logger.info("Dining room id %s is valid",request.params.room_number);
+		  response.sendStatus(200);
+	  }else{
+		  logger.info("Dining room id %s is invalid",request.params.room_number);
+		  response.status(500).send({error: 'Invalid dining room number'}) 
+	  }
+  }
+  
 });
 
 app.post('/example/:id', function(request, response) {
