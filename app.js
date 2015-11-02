@@ -2,10 +2,25 @@ var Q = require('q');
 var express = require('express');
 var bodyParser = require('body-parser');
 var elasticsearch = require('elasticsearch');
+var winston = require('winston');
 var _ = require('lodash');
 var app = express();
 
 var client = new elasticsearch.Client({ host: 'localhost:9200', log: 'trace', apiVersion: '2.0' });
+
+var logger = new (winston.Logger)({
+  transports: [
+   // new (winston.transports.Console)({ json: false, timestamp: true }),
+    new winston.transports.File({ filename: __dirname + '/log/debug.log', json: false })
+  ],
+  exceptionHandlers: [
+    new (winston.transports.Console)({ json: false, timestamp: true }),
+    new winston.transports.File({ filename: __dirname + '/log/exceptions.log', json: false })
+  ],
+  exitOnError: false
+});
+module.exports = logger;
+
 
 app.use(express.static('public'));
 app.use(bodyParser.json());
@@ -124,6 +139,7 @@ client.ping({requestTimeout: 3000, hello: 'hey'}).then(
       var port = server.address().port;
 
       console.log(' [*] Listening at http://%s:%s', host, port);
+	  logger.info(' [*] Listening at http://%s:%s', host, port);
     });
   },
   function(err) {
