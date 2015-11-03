@@ -48,7 +48,7 @@ var IsDate = function(date)
 
 var IsPozitiveNum = function(num)
 {
-    return num >= 0;
+    return num > 0;
 }
   
 module.exports.IsDate = IsDate;
