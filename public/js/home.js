@@ -9,8 +9,7 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
 	   ).then(function(successValue){
 			self.placeShareStatus = successValue;
 			console.log('getPlaceShareStatus : ',self.DinningRoomList);
-			
-			self.placeShareStatus = [{roomId:1, status:'G'}, {roomId:2, status:'R'} , {roomId:3, status:'Y'}];
+
 			
 			/*
 			self.DinningRoomList.forEach (function(room)
@@ -23,17 +22,25 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
 			});
 			*/
 	   });
-  self.model = {
-    text: ''
-  };
-  
-  
-  self.model = {
+
+    self.model = {
     text: ''
   };
 
-    self.TrafficLights = function(roomId) {
-        return  '../images/green.jpg';
+    self.placeShareStatus = [{roomId:1, status:'G',name:'main'}, {roomId:2, status:'R',name:'aviv'} , {roomId:3, status:'Y',name:'TA'}];
+
+
+    self.model = {
+    text: ''
+  };
+
+    self.TrafficLights = function(room) {
+        var roomData = self.placeShareStatus[room - 1]
+        return '../images/' +  roomData.status +'.jpg';
+    }
+
+    self.DiningRoomNames = function(room) {
+        return self.placeShareStatus[room - 1].name
     }
 
   self.buttonClicked = function() {
