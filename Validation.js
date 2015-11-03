@@ -32,10 +32,10 @@ var IsDate = function(date)
     return true;
  }
  
- var IsdiningRoom = function(ID)
+ var IsdiningRoom = function(id)
  {
 	 var RetValue = false
-	 if(isNaN(id)
+	 if(!isNaN(id))
 	 {
 		 if(id> 0 && id< 3)
 		 {
