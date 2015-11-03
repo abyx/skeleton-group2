@@ -8,6 +8,8 @@ var winston = require('winston');
 var _ = require('lodash');
 var app = express();
 
+var counter = {1:99,2:3};
+
 var client = new elasticsearch.Client({ host: 'localhost:9200', log: 'trace', apiVersion: '2.0' });
 
 var logger = new (winston.Logger)({
@@ -38,7 +40,7 @@ app.get('/example', function(request, response) {
 });
 
 app.get('/placeshare', function(request, response) {
-  response.send({success: 99});
+  response.send(counter);
 });
 
 app.put('/placeshareadd/:emp_id/:room_number', function(request, response) {
@@ -47,6 +49,7 @@ app.put('/placeshareadd/:emp_id/:room_number', function(request, response) {
   if (request.params.room_number){
 	  if (validation.IsdiningRoom(request.params.room_number)){
 		  logger.info("Dining room id %s is valid",request.params.room_number);
+		  counter[request.params.room_number]++;
 		  response.sendStatus(200);
 	  }else{
 		  logger.info("Dining room id %s is invalid",request.params.room_number);
