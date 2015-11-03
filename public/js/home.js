@@ -1,7 +1,7 @@
-angular.module('app').controller('HomeCtrl', function() {
+angular.module('app').controller('HomeCtrl', function(ConfigRepository) {
   var self = this;
   self.greeting = 'World';
-
+  self.DinningRoomList = ConfigRepository.getAppConfiguration();
   self.model = {
     text: ''
   };

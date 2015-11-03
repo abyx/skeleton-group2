@@ -4,12 +4,13 @@
     </div>
 </div>
 
+
+
 <div class="row">
     <div class="col-md-8">
         <p>Here is where we might put some information</p>
     </div>
 </div>
-
 
 <div class="row">
     <div class="col-md-3">
@@ -34,3 +35,9 @@
         <button type="button" class="btn btn-primary" ng-click="home.buttonClicked()">Click me</button>
     </div>
 </div>
+
+<ul>
+	<li ng-repeat="DinningRoom in home.DinningRoomList">
+	{{	DinningRoom.DrID	}}, 	{{	DinningRoom.DrName	}}				
+	</li>	
+</ul>
