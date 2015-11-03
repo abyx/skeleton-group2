@@ -13,7 +13,6 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository) {
   };
 
     self.TrafficLights = function(roomId) {
-        
         return  '../images/green.jpg';
     }
 
