@@ -36,20 +36,33 @@
     </div>
 </div>
 
-<div style="float: left; width: 100%; display: inline-block;">
-<div style="float: left">
-    <img ng-src="{{home.TrafficLights(1)}}" alt="Description"/><br>
-   {{home.DiningRoomNames(1)}}
-</div>
-    <div style="float: left">
-        <img ng-src="{{home.TrafficLights(2)}}" alt="Description"/><br>
-        {{home.DiningRoomNames(2)}}
-    </div>
-    <div style="float: left">
-        <img ng-src="{{home.TrafficLights(3)}}" alt="Description"/><br>
-        {{home.DiningRoomNames(3)}}
-    </div>
-</div>
+<!--<div style="float: left; width: 100%; display: inline-block;" ng-repeat="PlaceShareStat in home.placeShareStatus">-->
+<!--<div style="float: left">-->
+    <!--<img ng-src="{{PlaceShareStat.imageUrl}}" alt="Description"/><br>-->
+    <!--{{PlaceShareStat.imageUrl}}-->
+   <!--{{PlaceShareStat.name}}-->
+<!--</div>-->
+    <!--<div style="float: left">-->
+        <!--<img ng-src="{{home.placeShareStatus[1].imageUrl}}" alt="Description"/><br>-->
+        <!--{{home.DiningRoomNames(2)}}-->
+    <!--</div>-->
+    <!--<div style="float: left">-->
+        <!--<img ng-src="{{home.placeShareStatus[2].imageUrl}}" alt="Description"/><br>-->
+        <!--{{home.DiningRoomNames(3)}}-->
+    <!--</div>-->
+<!--</div>-->
+
+<ul>
+
+    <li ng-repeat="PlaceShareStat in home.placeShareStatus">
+        <div style="float: left">
+        <!--<img ng-src="{{PlaceShareStat.imageUrl}}" alt="Description"/><br>-->
+        {{PlaceShareStat.imageUrl}}
+        {{PlaceShareStat.name}}
+        </div>
+    </li>
+</ul>
+
 <br>
 <br>
 <br>
@@ -57,7 +70,7 @@
 <ul>
 
 	<li ng-repeat="DinningRoom in home.DinningRoomList">
-	{{	DinningRoom.code	}},-- 	{{	DinningRoom.name	}}				
-	</li>	
+	{{	DinningRoom.code	}},-- 	{{	DinningRoom.name	}}
+	</li>
 </ul>
  </div>

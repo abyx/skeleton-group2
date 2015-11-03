@@ -14,16 +14,7 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
 	aPromise[1].then(function(successValue){
 			self.placeShareCurrentStatus = successValue;
 			console.log('getPlaceShareStatus : ',self.DinningRoomList);
-<<<<<<< HEAD
-			
-			//self.placeShareStatus = [{roomId:1, status:'G'}, {roomId:2, status:'R'} , {roomId:3, status:'Y'}];
-=======
 
->>>>>>> 213fd168531a0271ae3c8fcb0a6449c47fb8efbb
-			
-			
-			
-		
 	   });
 	   
 	   Promise.all(aPromise).then(function(successValue){
@@ -34,43 +25,47 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
 				
 				self.placeShareCurrentStatus.forEach(function(status)
 				{
-					if (status.roomID  == room.code)
-					{
+					if (status.roomID  == room.code) {
 						var Light = 'G';
-						if(status.currentOccupancy > room.small)
-						{
-							if(status.currentOccupancy > room.medium)
-							{
+						if (status.currentOccupancy > room.small) {
+							if (status.currentOccupancy > room.medium) {
 								Light = 'R';
 							}
-							else
-							{
+							else {
 								Light = 'Y';
 							}
-							
+
 						}
-						
-						self.placeShareStatus.push({name:room.name,status:Light,upDate:status.lastUpdDate});
+
+						self.placeShareStatus.push({
+							name: room.name,
+							status: Light,
+							upDate: status.lastUpdDate,
+							imageUrl: '../images/' + Light + '.jpg'
+						});
+
 					}
 				});
 			});
+		   console.log('placeShareStatusADI : ',self.placeShareStatus);
 	   });
 
     self.model = {
     text: ''
   };
 
-    self.placeShareStatus = [{roomId:1, status:'G',name:'main'}, {roomId:2, status:'R',name:'aviv'} , {roomId:3, status:'Y',name:'TA'}];
-
 
     self.model = {
     text: ''
   };
 
-    self.TrafficLights = function(room) {
-        var roomData = self.placeShareStatus[room - 1]
-        return '../images/' +  roomData.status +'.jpg';
-    }
+    //self.TrafficLights = function(room) {
+		//if (self.placeShareStatus && self.placeShareStatus[room - 1]) {
+		//	var roomData = self.placeShareStatus[room - 1]
+		//	return '../images/' + roomData.status + '.jpg';
+		//}
+		//return '../images/Y.jpg';
+    //}
 
     self.DiningRoomNames = function(room) {
         return self.placeShareStatus[room - 1].name
