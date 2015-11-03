@@ -36,9 +36,28 @@
     </div>
 </div>
 
-<h1>{{home.DinningRoomList}}</h1>
+<div style="float: left; width: 100%; display: inline-block;">
+<div style="float: left">
+    <img ng-src="{{home.TrafficLights(1)}}" alt="Description"/><br>
+   {{home.DiningRoomNames(1)}}
+</div>
+    <div style="float: left">
+        <img ng-src="{{home.TrafficLights(2)}}" alt="Description"/><br>
+        {{home.DiningRoomNames(2)}}
+    </div>
+    <div style="float: left">
+        <img ng-src="{{home.TrafficLights(3)}}" alt="Description"/><br>
+        {{home.DiningRoomNames(3)}}
+    </div>
+</div>
+<br>
+<br>
+<br>
+<div style="float: left; width: 100%;display: inline-block;">
 <ul>
+
 	<li ng-repeat="DinningRoom in home.DinningRoomList">
 	{{	DinningRoom.code	}},-- 	{{	DinningRoom.name	}}				
 	</li>	
 </ul>
+ </div>

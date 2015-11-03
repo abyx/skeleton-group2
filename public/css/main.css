@@ -1,0 +1,11 @@
+#trafficImageRed{
+    content:url("../images/red.jpg");
+}
+
+#trafficImageYellow{
+    content:url("../images/yellow.jpg");
+}
+
+#trafficImageGreen{
+    content:url("../images/green.jpg");
+}
