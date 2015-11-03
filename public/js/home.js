@@ -4,13 +4,18 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository) {
    var aPromise = ConfigRepository.getAppConfiguration();
     console.log('getAppConfiguration : ',aPromise);
    aPromise.then(function(successValue){
-	   self.DinningRoomList =successValue;
+	   self.DinningRoomList = successValue;
 	   console.log('DinningRoomList : ',self.DinningRoomList);}
 	   );
   
   self.model = {
     text: ''
   };
+
+    self.TrafficLights = function(roomId) {
+        
+        return  '../images/green.jpg';
+    }
 
   self.buttonClicked = function() {
     if (self.model.text === '') {
