@@ -8,9 +8,7 @@ var winston = require('winston');
 var _ = require('lodash');
 var app = express();
 
-var diningRoomCurrent = {
-  1:{currentOccupancy:99, lastUpdDate:new Date()},2:{currentOccupancy:30, lastUpdDate:new Date()},3:{currentOccupancy:15, lastUpdDate:new Date()}
-};
+var diningRoomCurrent = [{roomID:1,currentOccupancy:99, lastUpdDate:new Date()},{roomID:2,currentOccupancy:30, lastUpdDate:new Date()},{roomID:3,currentOccupancy:15, lastUpdDate:new Date()}]
 
 var diningRoomMetadata =
 [
