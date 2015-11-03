@@ -37,7 +37,7 @@ var IsDate = function(date)
 	 var RetValue = false
 	 if(!isNaN(id))
 	 {
-		 if(id> 0 && id< 3)
+		 if(id > 0 && id < 4)
 		 {
 			 RetValue = true;
 		 }
