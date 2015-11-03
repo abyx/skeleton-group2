@@ -1,4 +1,4 @@
-angular.module('app').controller('HomeCtrl', function(ConfigRepository) {
+angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceShareStatusRepository) {
   var self = this;
   self.greeting = 'World';
    var aPromise = ConfigRepository.getAppConfiguration();
@@ -7,6 +7,16 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository) {
 	   self.DinningRoomList =successValue;
 	   console.log('DinningRoomList : ',self.DinningRoomList);}
 	   );
+  var aPromise = GetPlaceShareStatusRepository.getPlaceShareStatus();
+    console.log('getPlaceShareStatus : ',aPromise);
+   aPromise.then(function(successValue){
+	   self.placeShareStatus =successValue;
+	   console.log('getPlaceShareStatus : ',self.DinningRoomList);}
+	   );
+  self.model = {
+    text: ''
+  };
+  
   
   self.model = {
     text: ''
