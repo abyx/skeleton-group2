@@ -45,6 +45,12 @@ var IsDate = function(date)
 	
 	return RetValue;	
  }
+
+var IsPozitiveNum = function(num)
+{
+    return num >= 0;
+}
   
 module.exports.IsDate = IsDate;
 module.exports.IsdiningRoom = IsdiningRoom;
+module.exports.IsPozitiveNum = IsPozitiveNum;

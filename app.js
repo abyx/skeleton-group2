@@ -89,6 +89,21 @@ app.put('/placeshareadd/:emp_id/:room_number', function(request, response) {
   
 });
 
+app.delete('/placeshareadd/:emp_id/:room_number', function(request, response) {
+
+  if (request.params.room_number){
+    if (validation.IsdiningRoom(request.params.room_number) &&validation.IsPozitiveNum( diningRoomCurrent[request.params.room_number].currentOccupancy) ){
+      logger.info("delete - Dining room id %s is valid",request.params.room_number);
+      diningRoomCurrent[request.params.room_number].currentOccupancy--;
+      response.sendStatus(200);
+    }else{
+      logger.info("Dining room id %s is invalid",request.params.room_number);
+      response.status(500).send({error: 'Invalid dining room number'})
+    }
+  }
+
+});
+
 app.post('/example/:id', function(request, response) {
   console.log(request.body, request.params.id, 'query', request.query);
   response.sendStatus(200);
