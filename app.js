@@ -8,7 +8,34 @@ var winston = require('winston');
 var _ = require('lodash');
 var app = express();
 
-var counter = {1:99,2:3};
+var diningRoomCurrent = {
+  1:{currentOccupancy:99, lastUpdDate:new Date()},2:{currentOccupancy:30, lastUpdDate:new Date()},3:{currentOccupancy:15, lastUpdDate:new Date()}
+};
+
+var diningRoomMetadata =
+{
+  1:{
+    code:1,
+    name:'Merkazi',
+    capacity: 300,
+    small:100,
+    medium:200
+  },
+  2:{
+    code:2,
+    name:'Aviv',
+    capacity: 200,
+    small:50,
+    medium:150
+  },
+  3:{
+    code:3,
+    name:'TakeAway',
+    capacity: 25,
+    small:5,
+    medium:10
+  }
+}
 
 var client = new elasticsearch.Client({ host: 'localhost:9200', log: 'trace', apiVersion: '2.0' });
 
@@ -40,16 +67,19 @@ app.get('/example', function(request, response) {
 });
 
 app.get('/placeshare', function(request, response) {
-  response.send(counter);
+  response.send(diningRoomCurrent);
+});
+
+app.get('/placeshare/metadata', function(request, response) {
+  response.send(diningRoomMetadata);
 });
 
 app.put('/placeshareadd/:emp_id/:room_number', function(request, response) {
-  console.log(request.body, request.params.emp_id,request.params.room_number, 'query', request.query);
   
   if (request.params.room_number){
 	  if (validation.IsdiningRoom(request.params.room_number)){
 		  logger.info("Dining room id %s is valid",request.params.room_number);
-		  counter[request.params.room_number]++;
+          diningRoomCurrent[request.params.room_number].currentOccupancy++;
 		  response.sendStatus(200);
 	  }else{
 		  logger.info("Dining room id %s is invalid",request.params.room_number);
