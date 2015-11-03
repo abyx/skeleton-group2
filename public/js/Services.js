@@ -1,10 +1,14 @@
-angular.module('app').factory('ConfigRepository',	function() {	
+angular.module('app').factory('ConfigRepository',	function($http) {	
 	return	{
 		getAppConfiguration: function()	{
-			return[
-				{DrID:1,DrName:'AAA',MaxCapacity:523,SmallLimit:125,MediumLimit:347},
-				{DrID:2,DrName:'BBB',MaxCapacity:256,SmallLimit:33,MediumLimit:157}
-			];
+			return $http.get('/placeshare/metadata').then(
+				function(response){
+					console.log('got response',	response.data);
+					return response.data
+				},
+				function(rejection)	{
+					console.log('request	failed');
+				});
 		}
 	};	
 });
