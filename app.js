@@ -13,29 +13,29 @@ var diningRoomCurrent = {
 };
 
 var diningRoomMetadata =
-{
-  1:{
+[
+  {
     code:1,
     name:'Merkazi',
     capacity: 300,
     small:100,
     medium:200
   },
-  2:{
+  {
     code:2,
     name:'Aviv',
     capacity: 200,
     small:50,
     medium:150
   },
-  3:{
+  {
     code:3,
     name:'TakeAway',
     capacity: 25,
     small:5,
     medium:10
   }
-}
+]
 
 var client = new elasticsearch.Client({ host: 'localhost:9200', log: 'trace', apiVersion: '2.0' });
 
