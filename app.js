@@ -72,14 +72,20 @@ app.get('/placeshare/metadata', function(request, response) {
   response.send(diningRoomMetadata);
 });
 
-app.put('/placeshareadd/:emp_id/:room_number', function(request, response) {
+app.put('/placeshareadd/:emp_number/:room_number/', function(request, response) {
   
-  if (request.params.room_number){
+  if (request.params.room_number && request.params.emp_number){
     console.log(diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}))
 	  if (diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}) &&
-          validation.IsdiningRoom(request.params.room_number)){
+          validation.IsdiningRoom(request.params.room_number) &&
+          !isNaN(request.params.emp_number) && request.params.emp_number > 0)
+      {
 		  logger.info("Dining room id %s is valid",request.params.room_number);
-          diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}).currentOccupancy++;
+          diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}).currentOccupancy += parseInt(request.params.emp_number);
+        console.log("Before if: currentOccupancy" + diningRoomCurrent[request.params.room_number - 1].currentOccupancy)
+        if (diningRoomCurrent[request.params.room_number - 1].currentOccupancy > diningRoomMetadata[request.params.room_number - 1].capacity) {
+          diningRoomCurrent[request.params.room_number - 1].currentOccupancy = diningRoomMetadata[request.params.room_number - 1].capacity;
+        }
 		  response.sendStatus(200);
 	  }else{
 		  logger.info("Dining room id %s is invalid",request.params.room_number);
@@ -89,14 +95,22 @@ app.put('/placeshareadd/:emp_id/:room_number', function(request, response) {
   
 });
 
-app.delete('/placeshareadd/:emp_id/:room_number', function(request, response) {
+app.delete('/placeshareadd/:emp_number/:room_number', function(request, response) {
 
-  if (request.params.room_number){
+  if (request.params.room_number && request.params.emp_number){
     if (validation.IsdiningRoom(request.params.room_number) &&
-        diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}) && 
-        validation.IsPozitiveNum(diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}).currentOccupancy)){
+        diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}) &&
+        !isNaN(request.params.emp_number) && request.params.emp_number > 0 &&
+        validation.IsPozitiveNum(diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}).currentOccupancy))
+    {
       logger.info("delete - Dining room id %s is valid",request.params.room_number);
-      diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}).currentOccupancy--;
+      diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}).currentOccupancy -= parseInt(request.params.emp_number);
+      if (diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}).currentOccupancy < 0) {
+        console.log(diningRoomCurrent[request.params.room_number - 1])
+        diningRoomCurrent.find(function (a) {
+          return a.roomID == request.params.room_number;
+        }).currentOccupancy = 0;
+      }
       response.sendStatus(200);
     }else{
       logger.info("Dining room id %s is invalid",request.params.room_number);
