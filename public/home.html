@@ -8,69 +8,21 @@
 
 <div class="row">
     <div class="col-md-8">
-        <p>Here is where we might put some information</p>
+        <p>Dining Rooms</p>
     </div>
 </div>
 
-<div class="row">
-    <div class="col-md-3">
-        <p>And of course stuff such as inputs: </p>
-    </div>
-    <div class="col-md-2">
-        <input class="form-control" type="text" ng-model="home.model.text">
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-md-8">
-        <p>And what else can we use here?</p>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-md-3">
-        <p>... buttons!</p>
-    </div>
-    <div class="col-md-2">
-        <button type="button" class="btn btn-primary" ng-click="home.buttonClicked()">Click me</button>
+<div style="float: left; width: 100%; display: inline-block;" class="row">
+    <div style="float: left" class="col-xs-4 col-md-2" ng-repeat="PlaceShareStat in home.placeShareStatus">
+        <div class="thumbnail">
+            <img ng-src="{{PlaceShareStat.imageUrl}}" alt="Description"/><br>
+            <br>
+            <div class="caption">
+                <h2> {{PlaceShareStat.name}} </h2>
+                <br>
+                <!--Total places: {{home.DinningRoomList[PlaceShareStat.code -1].capacity}}-->
+            </div>
+        </div>
     </div>
 </div>
 
-<!--<div style="float: left; width: 100%; display: inline-block;" ng-repeat="PlaceShareStat in home.placeShareStatus">-->
-<!--<div style="float: left">-->
-    <!--<img ng-src="{{PlaceShareStat.imageUrl}}" alt="Description"/><br>-->
-    <!--{{PlaceShareStat.imageUrl}}-->
-   <!--{{PlaceShareStat.name}}-->
-<!--</div>-->
-    <!--<div style="float: left">-->
-        <!--<img ng-src="{{home.placeShareStatus[1].imageUrl}}" alt="Description"/><br>-->
-        <!--{{home.DiningRoomNames(2)}}-->
-    <!--</div>-->
-    <!--<div style="float: left">-->
-        <!--<img ng-src="{{home.placeShareStatus[2].imageUrl}}" alt="Description"/><br>-->
-        <!--{{home.DiningRoomNames(3)}}-->
-    <!--</div>-->
-<!--</div>-->
-<div style="float: left; width: 100%;display: inline-block;">
-<ul>
-
-    <li ng-repeat="PlaceShareStat in home.placeShareStatus">
-	
-        <img ng-src="{{PlaceShareStat.imageUrl}}" alt="Description"/><br>
-        {{PlaceShareStat.imageUrl}}, 
-		{{PlaceShareStat.name}}
-        
-    </li>
-</ul>
-</div>
-<br>
-<br>
-<br>
-<div style="float: left; width: 100%;display: inline-block;">
-<ul>
-
-	<li ng-repeat="DinningRoom in home.DinningRoomList">
-	{{	DinningRoom.code	}},-- 	{{	DinningRoom.name	}}
-	</li>
-</ul>
- </div>
