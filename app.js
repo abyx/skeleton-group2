@@ -75,9 +75,11 @@ app.get('/placeshare/metadata', function(request, response) {
 app.put('/placeshareadd/:emp_id/:room_number', function(request, response) {
   
   if (request.params.room_number){
-	  if (validation.IsdiningRoom(request.params.room_number)){
+    console.log(diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}))
+	  if (diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}) &&
+          validation.IsdiningRoom(request.params.room_number)){
 		  logger.info("Dining room id %s is valid",request.params.room_number);
-          diningRoomCurrent[request.params.room_number].currentOccupancy++;
+          diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}).currentOccupancy++;
 		  response.sendStatus(200);
 	  }else{
 		  logger.info("Dining room id %s is invalid",request.params.room_number);
@@ -90,9 +92,11 @@ app.put('/placeshareadd/:emp_id/:room_number', function(request, response) {
 app.delete('/placeshareadd/:emp_id/:room_number', function(request, response) {
 
   if (request.params.room_number){
-    if (validation.IsdiningRoom(request.params.room_number) &&validation.IsPozitiveNum( diningRoomCurrent[request.params.room_number].currentOccupancy) ){
+    if (validation.IsdiningRoom(request.params.room_number) &&
+        diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}) && 
+        validation.IsPozitiveNum(diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}).currentOccupancy)){
       logger.info("delete - Dining room id %s is valid",request.params.room_number);
-      diningRoomCurrent[request.params.room_number].currentOccupancy--;
+      diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}).currentOccupancy--;
       response.sendStatus(200);
     }else{
       logger.info("Dining room id %s is invalid",request.params.room_number);
