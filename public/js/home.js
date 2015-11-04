@@ -45,7 +45,8 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
 							name: room.name,
 							status: Light,
 							upDate: status.lastUpdDate,
-							imageUrl: '../images/' + Light + '.jpg'
+							imageUrl: '../images/' + Light + '.jpg',
+                            freePlaces:room.capacity - status.currentOccupancy
 						});
 
 					}
