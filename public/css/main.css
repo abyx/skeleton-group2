@@ -1,11 +1,19 @@
-#trafficImageRed{
-    content:url("../images/red.jpg");
-}
+/*#trafficImageRed{*/
+    /*content:url("../images/red.jpg");*/
+/*}*/
 
-#trafficImageYellow{
-    content:url("../images/yellow.jpg");
-}
+/*#trafficImageYellow{*/
+    /*content:url("../images/yellow.jpg");*/
+/*}*/
 
-#trafficImageGreen{
-    content:url("../images/green.jpg");
+/*#trafficImageGreen{*/
+    /*content:url("../images/green.jpg");*/
+/*}*/
+
+div.centre
+{
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
