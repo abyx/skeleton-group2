@@ -1,6 +1,5 @@
-
-    var getErrorString = function(Id,Exception)
-    {
+var getErrorString = function(Id,Exception)
+ {
         if (Exception != null)
         {
             //writeToLog
@@ -11,5 +10,4 @@
 
         }
     }
-
 module.exports.getErrorString = getErrorString;

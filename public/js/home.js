@@ -1,10 +1,14 @@
-angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceShareStatusRepository) {
+angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceShareStatusRepository,$q) {
   var self = this;
   self.greeting = 'World';
+  
+  //self.placeShareStatus = [{name: 'AA',status: 'Y',upDate: new Date(),imageUrl: '../images/R.jpg'},{name: 'BB',status: 'Y',upDate: new Date(),imageUrl: '../images/Y.jpg'},{name: 'CC',status: 'Y',upDate: new Date(),imageUrl: '../images/Y.jpg'}];
+  
    var aPromise =[ConfigRepository.getAppConfiguration(),GetPlaceShareStatusRepository.getPlaceShareStatus()];
    console.log('getAppConfiguration : ',aPromise);
    aPromise[0].then(function(successValue){
-	   self.DinningRoomList = successValue;
+	   
+	  self.DinningRoomList = successValue; 
 	   console.log('DinningRoomList : ',self.DinningRoomList);
 	   return successValue;
 	   }
@@ -16,8 +20,8 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
 			console.log('getPlaceShareStatus : ',self.DinningRoomList);
 
 	   });
-	   
-	   Promise.all(aPromise).then(function(successValue){
+	  
+	   $q.all(aPromise).then(function(successValue){
 		   self.placeShareStatus = [];
 		   self.DinningRoomList.forEach (function(room)
 			{ 

@@ -51,18 +51,18 @@
         <!--{{home.DiningRoomNames(3)}}-->
     <!--</div>-->
 <!--</div>-->
-
+<div style="float: left; width: 100%;display: inline-block;">
 <ul>
 
     <li ng-repeat="PlaceShareStat in home.placeShareStatus">
-        <div style="float: left">
-        <!--<img ng-src="{{PlaceShareStat.imageUrl}}" alt="Description"/><br>-->
-        {{PlaceShareStat.imageUrl}}
-        {{PlaceShareStat.name}}
-        </div>
+	
+        <img ng-src="{{PlaceShareStat.imageUrl}}" alt="Description"/><br>
+        {{PlaceShareStat.imageUrl}}, 
+		{{PlaceShareStat.name}}
+        
     </li>
 </ul>
-
+</div>
 <br>
 <br>
 <br>
