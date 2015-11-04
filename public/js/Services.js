@@ -26,3 +26,28 @@ angular.module('app').factory('GetPlaceShareStatusRepository',	function($http) {
 		}
 	};	
 });
+
+
+angular.module('app').factory('PlaceshareaddRepository',	function($http) {	
+	return	{
+		Placeshareadd: function(url)	{
+			return $http.put(url).then(
+				function(response){
+					console.log('got response of placeshare',	response.data);
+					return response.data
+				},
+				function(rejection)	{
+					console.log('request for placeshare	failed');
+				});
+		},PlaceshareDel: function(url)	{
+			return $http.delete(url).then(
+				function(response){
+					console.log('got response of placeshare',	response.data);
+					return response.data
+				},
+				function(rejection)	{
+					console.log('request for placeshare	failed');
+				});
+		}
+	};	
+});
