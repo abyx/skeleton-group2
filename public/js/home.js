@@ -1,16 +1,17 @@
-angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceShareStatusRepository,$q) {
+angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceShareStatusRepository,PlaceshareaddRepository,$q,$timeout,$interval) {
   var self = this;
   self.greeting = 'World';
   
   //self.placeShareStatus = [{name: 'AA',status: 'Y',upDate: new Date(),imageUrl: '../images/R.jpg'},{name: 'BB',status: 'Y',upDate: new Date(),imageUrl: '../images/Y.jpg'},{name: 'CC',status: 'Y',upDate: new Date(),imageUrl: '../images/Y.jpg'}];
-  
-   var aPromise =[ConfigRepository.getAppConfiguration(),GetPlaceShareStatusRepository.getPlaceShareStatus()];
-   console.log('getAppConfiguration : ',aPromise);
-   aPromise[0].then(function(successValue){
+   
+   getData = function() {
+	   var aPromise =[ConfigRepository.getAppConfiguration(),GetPlaceShareStatusRepository.getPlaceShareStatus()];
+	    
+		aPromise[0].then(function(successValue){
 	   
-	  self.DinningRoomList = successValue; 
-	   console.log('DinningRoomList : ',self.DinningRoomList);
-	   return successValue;
+		  self.DinningRoomList = successValue; 
+		   console.log('DinningRoomList : ',self.DinningRoomList);
+		   return successValue;
 	   }
 	   
 	   );
@@ -21,7 +22,7 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
 
 	   });
 	  
-	   $q.all(aPromise).then(function(successValue){
+	$q.all(aPromise).then(function(successValue){
 		   self.placeShareStatus = [];
 		   self.DinningRoomList.forEach (function(room)
 			{ 
@@ -53,8 +54,51 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
 				});
 			});
 		   console.log('placeShareStatusADI : ',self.placeShareStatus);
+		   $timeout(function() {
+					console.log('getData TimeOut : ');
+					getData();
+				}, 1500);
 	   });
-
+   };
+   
+     
+   
+   function addDinningPerson() {
+            var aPromiseAdd =PlaceshareaddRepository.Placeshareadd('/placeshareadd/' + getNumOfPersons() + '/' + getRandomDinningRoom());
+	    
+			aPromiseAdd.then(function(successValue){
+				 $timeout(function() {
+					 console.log('getData TimeOut : ');
+					addDinningPerson();
+				}, 500);
+		   });
+          }
+   
+   
+   function delDinningPerson() {
+            var aPromiseAdd =PlaceshareaddRepository.PlaceshareDel('/placeshareadd/' + getNumOfPersons() + '/' + getRandomDinningRoom());
+	    
+			aPromiseAdd.then(function(successValue){
+				 $timeout(function() {
+					 console.log('getData TimeOut : ');
+					delDinningPerson();
+				}, 1000);
+		   });
+          }
+		  
+   
+   
+   function getRandomDinningRoom(){
+    return Math.floor((Math.random()*3)+1);
+   }
+  
+   function getNumOfPersons(){
+    return Math.floor((Math.random()*10)+1);
+   }
+   
+   getData();
+   addDinningPerson();
+   delDinningPerson();
     self.model = {
     text: ''
   };
@@ -75,6 +119,7 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
     self.DiningRoomNames = function(room) {
         return self.placeShareStatus[room - 1].name
     }
+
 
   self.buttonClicked = function() {
     if (self.model.text === '') {
