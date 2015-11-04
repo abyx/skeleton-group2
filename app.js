@@ -65,6 +65,9 @@ app.get('/example', function(request, response) {
 });
 
 app.get('/placeshare', function(request, response) {
+  diningRoomCurrent.forEach(function(dr){
+    dr.lastUpdDate = new Date();
+  });
   response.send(diningRoomCurrent);
 });
 
@@ -75,14 +78,14 @@ app.get('/placeshare/metadata', function(request, response) {
 app.put('/placeshareadd/:emp_number/:room_number/', function(request, response) {
   
   if (request.params.room_number && request.params.emp_number){
-    console.log(diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}))
+    //console.log(diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}))
 	  if (diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}) &&
           validation.IsdiningRoom(request.params.room_number) &&
           !isNaN(request.params.emp_number) && request.params.emp_number > 0)
       {
 		  logger.info("Dining room id %s is valid",request.params.room_number);
           diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}).currentOccupancy += parseInt(request.params.emp_number);
-        console.log("Before if: currentOccupancy" + diningRoomCurrent[request.params.room_number - 1].currentOccupancy)
+        //console.log("Before if: currentOccupancy" + diningRoomCurrent[request.params.room_number - 1].currentOccupancy)
         if (diningRoomCurrent[request.params.room_number - 1].currentOccupancy > diningRoomMetadata[request.params.room_number - 1].capacity) {
           diningRoomCurrent[request.params.room_number - 1].currentOccupancy = diningRoomMetadata[request.params.room_number - 1].capacity;
         }
@@ -106,7 +109,7 @@ app.delete('/placeshareadd/:emp_number/:room_number', function(request, response
       logger.info("delete - Dining room id %s is valid",request.params.room_number);
       diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}).currentOccupancy -= parseInt(request.params.emp_number);
       if (diningRoomCurrent.find(function(a) {return a.roomID == request.params.room_number;}).currentOccupancy < 0) {
-        console.log(diningRoomCurrent[request.params.room_number - 1])
+        //console.log(diningRoomCurrent[request.params.room_number - 1])
         diningRoomCurrent.find(function (a) {
           return a.roomID == request.params.room_number;
         }).currentOccupancy = 0;
@@ -114,14 +117,15 @@ app.delete('/placeshareadd/:emp_number/:room_number', function(request, response
       response.sendStatus(200);
     }else{
       logger.info("Dining room id %s is invalid",request.params.room_number);
-      response.status(500).send({error: 'Invalid dining room number'})
+      //response.status(500).send({error: 'Invalid dining room number'})
+      response.status(200).send({error: 'Invalid dining room number'})
     }
   }
 
 });
 
 app.post('/example/:id', function(request, response) {
-  console.log(request.body, request.params.id, 'query', request.query);
+  //console.log(request.body, request.params.id, 'query', request.query);
   response.sendStatus(200);
 });
 

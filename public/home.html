@@ -1,5 +1,5 @@
-<div class="row">
-    <div class="col-md-8">
+<div class="container">
+    <div class="block">
         <h1 class="page-header">
             <img src="images/ICON.png" style="width: 20%;height: 20%"/>
             Dining Rooms status:
@@ -8,14 +8,33 @@
 </div>
 
 
-<div style="float: left; width: 100%; display: inline-block;" class="row">
-    <div style="float: left" class="col-xs-4 col-md-2" ng-repeat="PlaceShareStat in home.placeShareStatus">
+<!--<div  class="container" >-->
+    <!--<div class="block">-->
+        <!--<div class="thumbnail">-->
+            <!--<img src="images/Y.jpg">-->
+        <!--</div>-->
+    <!--</div>-->
+    <!--<div class="block">-->
+        <!--<div class="thumbnail">-->
+            <!--<img src="images/Y.jpg">-->
+        <!--</div>-->
+    <!--</div>-->
+    <!--<div class="block">-->
+        <!--<div class="thumbnail">-->
+            <!--<img src="images/Y.jpg">-->
+        <!--</div>-->
+    <!--</div>-->
+<!--</div>-->
+
+<div class="container">
+    <!--style="float: left; width: 100%; display: inline-block;" class="row"-->
+    <div class="block" ng-repeat="PlaceShareStat in home.placeShareStatus">
+        <!--class="col-xs-4 col-md-2"-->
         <div class="thumbnail">
             <img ng-src="{{PlaceShareStat.imageUrl}}" alt="Description"/><br>
-            <br>
             <div class="caption">
-                <h2> {{PlaceShareStat.name}} </h2>
-                 <div>{{PlaceShareStat.freePlaces}} / {{home.DinningRoomList[$index].capacity}}</div>
+                <h2><b> {{PlaceShareStat.name}} </b></h2>
+                 <div><b>Available Seats: {{PlaceShareStat.freePlaces}} </b><br> (Total: {{home.DinningRoomList[$index].capacity}})</div>
             </div>
         </div>
     </div>
