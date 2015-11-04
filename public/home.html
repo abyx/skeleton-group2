@@ -32,10 +32,9 @@
         <!--class="col-xs-4 col-md-2"-->
         <div class="thumbnail">
             <img ng-src="{{PlaceShareStat.imageUrl}}" alt="Description"/><br>
-            <br>
             <div class="caption">
-                <h2> {{PlaceShareStat.name}} </h2>
-                 <div>{{PlaceShareStat.freePlaces}} / {{home.DinningRoomList[$index].capacity}}</div>
+                <h2><b> {{PlaceShareStat.name}} </b></h2>
+                 <div><b>Available Seats: {{PlaceShareStat.freePlaces}} </b><br> (Total: {{home.DinningRoomList[$index].capacity}})</div>
             </div>
         </div>
     </div>
