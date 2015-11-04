@@ -45,7 +45,7 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
 						self.placeShareStatus.push({
 							name: room.name,
 							status: Light,
-							upDate: status.lastUpdDate,
+							upDate: new Date(status.lastUpdDate).ToFormatString(),
 							imageUrl: '../images/' + Light + '.jpg',
                             freePlaces:room.capacity - status.currentOccupancy
 						});
@@ -86,7 +86,18 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
 		   });
           }
 		  
-   
+   Date.prototype.ToFormatString = function() {
+	   var yyyy = this.getFullYear().toString();
+	   var mm = (this.getMonth()+1).toString(); // getMonth() is zero-based
+	   var dd  = this.getDate().toString();
+	   var hh = this.getHours().toString();
+	   var mi = this.getMinutes().toString();
+	   var ss = this.getSeconds().toString();
+	   return (dd[1]?dd:"0"+dd[0]) +  '/' + (mm[1]?mm:"0"+mm[0]) + '/' + yyyy + ' ' + (hh[1]?hh:"0"+hh[0]) + ':' + (mi[1]?mi:"0"+mi[0]) + ':' + (ss[1]?ss:"0"+ss[0]); // padding
+  };
+  
+  
+
    
    function getRandomDinningRoom(){
     return Math.floor((Math.random()*3)+1);
