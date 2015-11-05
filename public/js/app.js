@@ -7,10 +7,10 @@ angular.module('app').config(function($routeProvider) {
       controller: 'HomeCtrl',
       controllerAs: 'home'
     })
-    .when('/view1/:argument?', {
-      templateUrl: 'view1.html',
-      controller: 'View1Ctrl',
-      controllerAs: 'view1'
+    .when('/Admin', {
+      templateUrl: 'Admin.html',
+      controller: 'AdminCtrl',
+      controllerAs: 'Admin'
     })
     .when('/view2', {
       templateUrl: 'view2.html',

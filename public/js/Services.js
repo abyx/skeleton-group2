@@ -51,3 +51,13 @@ angular.module('app').factory('PlaceshareaddRepository',	function($http) {
 		}
 	};	
 });
+
+angular.module('app').factory('ContextRepository',	function() {	
+	var isDemoStart = false;
+	return	{
+		IsDemoStart: function()	{
+				isDemoStart != isDemoStart;
+				return isDemoStart;
+		}
+	};	
+});
