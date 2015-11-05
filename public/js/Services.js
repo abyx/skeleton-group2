@@ -33,7 +33,8 @@ angular.module('app').factory('PlaceshareaddRepository',	function($http) {
 		Placeshareadd: function(url)	{
 			return $http.put(url).then(
 				function(response){
-					console.log('got response of placeshare',	response.data);
+					debugger;
+					console.log('got response of placeshare!!',	response.data);
 					return response.data
 				},
 				function(rejection)	{

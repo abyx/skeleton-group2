@@ -1,7 +1,13 @@
 <div class="row">
     <div class="col-md-8">
-	
-		<button ng-click=Admin.startDemo()">Start Demo</button>
-        <input type="button" ng-model=Admin.myModel.IsStartDemo">
+		add or remove people:
+	    <input id="amount" name="amount" type="TEXT" ng-model=Admin.myModel.amount>
+		Dining Room number:<input type="TEXT" ng-model=Admin.myModel.room_number>
+		<input type="button" value="+" ng-click="Admin.addDinningPersonWithParams()">
+		<input type="button" value="-" ng-click="Admin.delDinningPerson()">
+	 
+	   <br><br><br><br>
+		<!-- <button ng-click=Admin.startDemo()>Start Demo</button>
+        <input type="button" ng-model=Admin.myModel.IsStartDemo> -->
     </div>
 </div>
