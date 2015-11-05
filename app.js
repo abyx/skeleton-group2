@@ -4,6 +4,7 @@ var validation = require('./Validation');
 var express = require('express');
 var bodyParser = require('body-parser');
 var elasticsearch = require('elasticsearch');
+var Pusher = require('pusher');
 var winston = require('winston');
 var _ = require('lodash');
 var app = express();
@@ -36,6 +37,12 @@ var diningRoomMetadata =
 ]
 
 var client = new elasticsearch.Client({ host: 'localhost:9200', log: 'trace', apiVersion: '2.0' });
+
+var pusher = new Pusher({
+  appId: '152324',
+  key: '44c410ff9a1099ed08d8',
+  secret: '7ef99fced8aa266072d2'
+});
 
 var logger = new (winston.Logger)({
   transports: [
@@ -89,7 +96,9 @@ app.put('/placeshareadd/:emp_number/:room_number/', function(request, response) 
         if (diningRoomCurrent[request.params.room_number - 1].currentOccupancy > diningRoomMetadata[request.params.room_number - 1].capacity) {
           diningRoomCurrent[request.params.room_number - 1].currentOccupancy = diningRoomMetadata[request.params.room_number - 1].capacity;
         }
+		pusher.trigger('my-channel', 'my-event', {"message": "hello world"});
 		  response.sendStatus(200);
+		  
 	  }else{
 		  logger.info("Dining room id %s is invalid",request.params.room_number);
 		  response.status(500).send({error: 'Invalid dining room number'}) 
@@ -114,6 +123,7 @@ app.delete('/placeshareadd/:emp_number/:room_number', function(request, response
           return a.roomID == request.params.room_number;
         }).currentOccupancy = 0;
       }
+	  	pusher.trigger('my-channel', 'my-event', {"message": "hello world"});
       response.sendStatus(200);
     }else{
       logger.info("Dining room id %s is invalid",request.params.room_number);

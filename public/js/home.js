@@ -1,7 +1,8 @@
 angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceShareStatusRepository,PlaceshareaddRepository,ContextRepository,$q,$timeout,$scope,$interval) {
   var self = this;
   self.greeting = 'World';
-  
+  var pusher = new Pusher('44c410ff9a1099ed08d8');
+  var channel = pusher.subscribe('my-channel');
   //self.placeShareStatus = [{name: 'AA',status: 'Y',upDate: new Date(),imageUrl: '../images/R.jpg'},{name: 'BB',status: 'Y',upDate: new Date(),imageUrl: '../images/Y.jpg'},{name: 'CC',status: 'Y',upDate: new Date(),imageUrl: '../images/Y.jpg'}];
    
    ContextRepository.subscribe($scope,function(){
@@ -23,6 +24,8 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
 				}, 1000);
 	   }
    })
+   
+   channel.bind('my-event', function(){getData()});
    
    getData = function() {
 	   console.log('ContextRepository.IsDemoStart : ' + ContextRepository.IsDemoStart());
@@ -91,7 +94,7 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
      
    
    function addDinningPerson() {
-			if(!ContextRepository.IsDemoStart)
+			if(!ContextRepository.IsDemoStart())
 			{
 			   return;
 			}
@@ -107,7 +110,7 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
    
    
    function delDinningPerson() {
-			if(!ContextRepository.IsDemoStart)
+			if(!ContextRepository.IsDemoStart())
 			{
 			   return;
 			}
