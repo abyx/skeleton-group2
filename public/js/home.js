@@ -1,16 +1,38 @@
-angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceShareStatusRepository,PlaceshareaddRepository,$q,$timeout,$interval) {
+angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceShareStatusRepository,PlaceshareaddRepository,ContextRepository,$q,$timeout,$scope,$interval) {
   var self = this;
   self.greeting = 'World';
   
   //self.placeShareStatus = [{name: 'AA',status: 'Y',upDate: new Date(),imageUrl: '../images/R.jpg'},{name: 'BB',status: 'Y',upDate: new Date(),imageUrl: '../images/Y.jpg'},{name: 'CC',status: 'Y',upDate: new Date(),imageUrl: '../images/Y.jpg'}];
    
+   ContextRepository.subscribe($scope,function(){
+	   if(ContextRepository.IsDemoStart)
+	   {
+		   $timeout(function() {
+					//console.log('getData TimeOut : ');
+					getData();
+				}, 1500);
+				
+			$timeout(function() {
+					 //console.log('getData TimeOut : ');
+					addDinningPerson();
+				}, 500);
+				
+			$timeout(function() {
+					 //console.log('getData TimeOut : ');
+					delDinningPerson();
+				}, 1000);
+	   }
+   })
+   
    getData = function() {
+	   console.log('ContextRepository.IsDemoStart : ' + ContextRepository.IsDemoStart());
+	   
 	   var aPromise =[ConfigRepository.getAppConfiguration(),GetPlaceShareStatusRepository.getPlaceShareStatus()];
 	    
 		aPromise[0].then(function(successValue){
 	   
 		  self.DinningRoomList = successValue; 
-		   console.log('DinningRoomList : ',self.DinningRoomList);
+		   //console.log('DinningRoomList : ',self.DinningRoomList);
 		   return successValue;
 	   }
 	   
@@ -18,7 +40,7 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
 	   
 	aPromise[1].then(function(successValue){
 			self.placeShareCurrentStatus = successValue;
-			console.log('getPlaceShareStatus : ',self.DinningRoomList);
+			//console.log('getPlaceShareStatus : ',self.DinningRoomList);
 
 	   });
 	  
@@ -26,7 +48,7 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
 		   self.placeShareStatus = [];
 		   self.DinningRoomList.forEach (function(room)
 			{ 
-				console.log('XXXX : ',self.placeShareStatus);
+				//console.log('XXXX : ',self.placeShareStatus);
 				
 				self.placeShareCurrentStatus.forEach(function(status)
 				{
@@ -53,9 +75,14 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
 					}
 				});
 			});
-		   console.log('placeShareStatusADI : ',self.placeShareStatus);
+			
+			if(!ContextRepository.IsDemoStart())
+			   {
+				   return;
+			   }
+		   //console.log('placeShareStatusADI : ',self.placeShareStatus);
 		   $timeout(function() {
-					console.log('getData TimeOut : ');
+					//console.log('getData TimeOut : ');
 					getData();
 				}, 1500);
 	   });
@@ -64,11 +91,15 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
      
    
    function addDinningPerson() {
+			if(!ContextRepository.IsDemoStart)
+			{
+			   return;
+			}
             var aPromiseAdd =PlaceshareaddRepository.Placeshareadd('/placeshareadd/' + getNumOfPersons() + '/' + getRandomDinningRoom());
 	    
 			aPromiseAdd.then(function(successValue){
 				 $timeout(function() {
-					 console.log('getData TimeOut : ');
+					// console.log('getData TimeOut : ');
 					addDinningPerson();
 				}, 500);
 		   });
@@ -76,11 +107,15 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
    
    
    function delDinningPerson() {
+			if(!ContextRepository.IsDemoStart)
+			{
+			   return;
+			}
             var aPromiseAdd =PlaceshareaddRepository.PlaceshareDel('/placeshareadd/' + getNumOfPersons() + '/' + getRandomDinningRoom());
 	    
 			aPromiseAdd.then(function(successValue){
 				 $timeout(function() {
-					 console.log('getData TimeOut : ');
+					// console.log('getData TimeOut : ');
 					delDinningPerson();
 				}, 1000);
 		   });

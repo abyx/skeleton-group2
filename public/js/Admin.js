@@ -3,8 +3,8 @@ angular.module('app').controller('AdminCtrl', function(PlaceshareaddRepository,C
   
   self.myModel = { IsStartDemo: true,NumberOfPersonToAdd: 10,DinnigRoomID:1 }; 
   
-  self.startDemo() = function(){
-	  ContextRepository.IsDemoStart;
+  self.startDemo = function(){
+	  ContextRepository.SetDemoStart();
   }
   
   function addDinningPerson() {
