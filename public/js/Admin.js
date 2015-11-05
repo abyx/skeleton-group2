@@ -2,10 +2,12 @@ angular.module('app').controller('AdminCtrl', function(PlaceshareaddRepository,C
   var self = this;
   
   
+
   self.myModel = { IsStartDemo: true,NumberOfPersonToAdd: 10,DinnigRoomID:1, amount:0, room_number:0 }; 
   
+
   self.startDemo = function(){
-	  ContextRepository.IsDemoStart;
+	  ContextRepository.SetDemoStart();
   }
   
   self.addDinningPerson = function addDinningPerson() {
@@ -22,13 +24,14 @@ angular.module('app').controller('AdminCtrl', function(PlaceshareaddRepository,C
 		  
 self.addDinningPersonWithParams = function addDinningPersonWithParams() {
 	  debugger;
-            var aPromiseAdd =PlaceshareaddRepository.Placeshareadd('/placeshareadd/' + self.myModel.amount + '/' + self.myModel.room_number);
+	        //var aPromiseAdd =PlaceshareaddRepository.Placeshareadd('/placeshareadd/1222/1');
+			var params = '/placeshareadd/' + self.myModel.amount + '/' + self.myModel.room_number;
+			console.log(params);
+             var aPromiseAdd =PlaceshareaddRepository.Placeshareadd(params);
+			 //'/placeshareadd/' + self.myModel.amount + '/' + self.myModel.room_number);
 	    
 			aPromiseAdd.then(function(successValue){
-				 $timeout(function() {
-					 console.log('getData TimeOut : ');
-					addDinningPerson();
-				}, 500);
+				console.log('success!!!!!!!!!!!');
 		   });
           }
    

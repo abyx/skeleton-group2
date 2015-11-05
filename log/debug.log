@@ -16205,3 +16205,2379 @@
 2015-11-05T08:51:07.675Z - info: Dining room id 3 is valid
 2015-11-05T08:51:08.179Z - info: Dining room id 3 is valid
 2015-11-05T08:51:08.367Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:51:59.084Z - info:  [*] Listening at http://:::3000
+2015-11-05T08:54:30.273Z - info: Dining room id 1 is valid
+2015-11-05T08:54:30.276Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:54:30.779Z - info: Dining room id 1 is valid
+2015-11-05T08:54:31.279Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:54:31.284Z - info: Dining room id 2 is valid
+2015-11-05T08:54:31.796Z - info: Dining room id 1 is valid
+2015-11-05T08:54:32.284Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:54:32.299Z - info: Dining room id 2 is valid
+2015-11-05T08:54:32.802Z - info: Dining room id 1 is valid
+2015-11-05T08:54:33.288Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:54:33.306Z - info: Dining room id 2 is valid
+2015-11-05T08:54:33.811Z - info: Dining room id 3 is valid
+2015-11-05T08:54:34.293Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:54:34.315Z - info: Dining room id 3 is valid
+2015-11-05T08:54:34.820Z - info: Dining room id 2 is valid
+2015-11-05T08:54:35.297Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:54:35.326Z - info: Dining room id 1 is valid
+2015-11-05T08:54:35.833Z - info: Dining room id 2 is valid
+2015-11-05T08:54:36.303Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:54:36.337Z - info: Dining room id 1 is valid
+2015-11-05T08:54:36.841Z - info: Dining room id 3 is valid
+2015-11-05T08:54:37.307Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:54:37.346Z - info: Dining room id 2 is valid
+2015-11-05T08:54:37.850Z - info: Dining room id 3 is valid
+2015-11-05T08:54:38.312Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:54:38.355Z - info: Dining room id 1 is valid
+2015-11-05T08:54:38.860Z - info: Dining room id 3 is valid
+2015-11-05T08:54:39.316Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:54:39.365Z - info: Dining room id 2 is valid
+2015-11-05T08:54:39.869Z - info: Dining room id 3 is valid
+2015-11-05T08:54:40.321Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:54:40.373Z - info: Dining room id 2 is valid
+2015-11-05T08:54:40.877Z - info: Dining room id 2 is valid
+2015-11-05T08:54:41.326Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:54:41.381Z - info: Dining room id 3 is valid
+2015-11-05T08:54:41.885Z - info: Dining room id 3 is valid
+2015-11-05T08:54:42.330Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:54:42.390Z - info: Dining room id 1 is valid
+2015-11-05T08:54:42.895Z - info: Dining room id 3 is valid
+2015-11-05T08:54:43.335Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:54:43.398Z - info: Dining room id 1 is valid
+2015-11-05T08:54:43.902Z - info: Dining room id 1 is valid
+2015-11-05T08:54:44.339Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:54:44.406Z - info: Dining room id 3 is valid
+2015-11-05T08:54:44.911Z - info: Dining room id 2 is valid
+2015-11-05T08:54:45.343Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:54:45.419Z - info: Dining room id 3 is valid
+2015-11-05T08:54:45.926Z - info: Dining room id 2 is valid
+2015-11-05T08:54:46.348Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:54:46.431Z - info: Dining room id 2 is valid
+2015-11-05T08:54:46.935Z - info: Dining room id 3 is valid
+2015-11-05T08:54:47.352Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:54:47.439Z - info: Dining room id 2 is valid
+2015-11-05T08:54:47.943Z - info: Dining room id 3 is valid
+2015-11-05T08:54:51.562Z - info: Dining room id 1 is valid
+2015-11-05T08:54:52.739Z - info: Dining room id 3 is valid
+2015-11-05T08:54:52.741Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:54:53.245Z - info: Dining room id 2 is valid
+2015-11-05T08:54:53.747Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:54:53.749Z - info: Dining room id 1 is valid
+2015-11-05T08:54:54.254Z - info: Dining room id 3 is valid
+2015-11-05T08:54:54.752Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:54:54.764Z - info: Dining room id 2 is valid
+2015-11-05T08:54:55.267Z - info: Dining room id 2 is valid
+2015-11-05T08:54:55.760Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:54:55.773Z - info: Dining room id 3 is valid
+2015-11-05T08:54:56.043Z - info: Dining room id 1 is valid
+2015-11-05T08:54:56.044Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:54:56.553Z - info: Dining room id 1 is valid
+2015-11-05T08:54:57.052Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:54:57.057Z - info: Dining room id 1 is valid
+2015-11-05T08:54:57.569Z - info: Dining room id 1 is valid
+2015-11-05T08:54:58.057Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:54:58.074Z - info: Dining room id 2 is valid
+2015-11-05T08:54:58.578Z - info: Dining room id 1 is valid
+2015-11-05T08:54:59.062Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:54:59.085Z - info: Dining room id 1 is valid
+2015-11-05T08:54:59.590Z - info: Dining room id 2 is valid
+2015-11-05T08:55:00.066Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:00.094Z - info: Dining room id 1 is valid
+2015-11-05T08:55:00.600Z - info: Dining room id 1 is valid
+2015-11-05T08:55:01.070Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:01.103Z - info: Dining room id 3 is valid
+2015-11-05T08:55:01.608Z - info: Dining room id 1 is valid
+2015-11-05T08:55:02.075Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:02.112Z - info: Dining room id 3 is valid
+2015-11-05T08:55:02.616Z - info: Dining room id 3 is valid
+2015-11-05T08:55:03.080Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:03.120Z - info: Dining room id 1 is valid
+2015-11-05T08:55:03.624Z - info: Dining room id 1 is valid
+2015-11-05T08:55:03.718Z - info: Dining room id 2 is valid
+2015-11-05T08:55:03.720Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:04.084Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:04.131Z - info: Dining room id 2 is valid
+2015-11-05T08:55:04.226Z - info: Dining room id 2 is valid
+2015-11-05T08:55:04.635Z - info: Dining room id 3 is valid
+2015-11-05T08:55:04.730Z - info: Dining room id 2 is valid
+2015-11-05T08:55:04.731Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:05.088Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:05.139Z - info: Dining room id 3 is valid
+2015-11-05T08:55:05.243Z - info: Dining room id 2 is valid
+2015-11-05T08:55:05.644Z - info: Dining room id 3 is valid
+2015-11-05T08:55:05.735Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:05.747Z - info: Dining room id 2 is valid
+2015-11-05T08:55:06.092Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:06.193Z - info: Dining room id 2 is valid
+2015-11-05T08:55:06.193Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:06.697Z - info: Dining room id 2 is valid
+2015-11-05T08:55:07.200Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:07.202Z - info: Dining room id 2 is valid
+2015-11-05T08:55:07.712Z - info: Dining room id 1 is valid
+2015-11-05T08:55:08.206Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:08.216Z - info: Dining room id 2 is valid
+2015-11-05T08:55:08.720Z - info: Dining room id 2 is valid
+2015-11-05T08:55:09.218Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:09.224Z - info: Dining room id 2 is valid
+2015-11-05T08:55:09.729Z - info: Dining room id 3 is valid
+2015-11-05T08:55:10.222Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:10.233Z - info: Dining room id 3 is valid
+2015-11-05T08:55:10.737Z - info: Dining room id 3 is valid
+2015-11-05T08:55:11.227Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:11.242Z - info: Dining room id 3 is valid
+2015-11-05T08:55:11.747Z - info: Dining room id 1 is valid
+2015-11-05T08:55:12.230Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:12.250Z - info: Dining room id 1 is valid
+2015-11-05T08:55:12.753Z - info: Dining room id 1 is valid
+2015-11-05T08:55:13.234Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:13.257Z - info: Dining room id 1 is valid
+2015-11-05T08:55:13.760Z - info: Dining room id 3 is valid
+2015-11-05T08:55:14.238Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:14.264Z - info: Dining room id 2 is valid
+2015-11-05T08:55:14.770Z - info: Dining room id 3 is valid
+2015-11-05T08:55:15.243Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:15.276Z - info: Dining room id 1 is valid
+2015-11-05T08:55:15.780Z - info: Dining room id 3 is valid
+2015-11-05T08:55:16.247Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:16.283Z - info: Dining room id 2 is valid
+2015-11-05T08:55:16.788Z - info: Dining room id 3 is valid
+2015-11-05T08:55:16.805Z - info: Dining room id 3 is valid
+2015-11-05T08:55:16.807Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:17.251Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:17.307Z - info: Dining room id 2 is valid
+2015-11-05T08:55:17.309Z - info: Dining room id 1 is valid
+2015-11-05T08:55:17.811Z - info: Dining room id 2 is valid
+2015-11-05T08:55:17.813Z - info: Dining room id 3 is valid
+2015-11-05T08:55:17.816Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:18.255Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:18.315Z - info: Dining room id 2 is valid
+2015-11-05T08:55:18.317Z - info: Dining room id 1 is valid
+2015-11-05T08:55:18.819Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:18.821Z - info: Dining room id 1 is valid
+2015-11-05T08:55:18.822Z - info: Dining room id 1 is valid
+2015-11-05T08:55:19.259Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:19.325Z - info: Dining room id 3 is valid
+2015-11-05T08:55:19.327Z - info: Dining room id 3 is valid
+2015-11-05T08:55:19.824Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:19.829Z - info: Dining room id 1 is valid
+2015-11-05T08:55:19.831Z - info: Dining room id 1 is valid
+2015-11-05T08:55:20.263Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:20.333Z - info: Dining room id 2 is valid
+2015-11-05T08:55:20.335Z - info: Dining room id 3 is valid
+2015-11-05T08:55:20.828Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:20.837Z - info: Dining room id 3 is valid
+2015-11-05T08:55:20.838Z - info: Dining room id 2 is valid
+2015-11-05T08:55:21.267Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:21.341Z - info: Dining room id 1 is valid
+2015-11-05T08:55:21.343Z - info: Dining room id 1 is valid
+2015-11-05T08:55:21.832Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:21.844Z - info: Dining room id 3 is valid
+2015-11-05T08:55:21.848Z - info: Dining room id 1 is valid
+2015-11-05T08:55:22.271Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:22.348Z - info: Dining room id 3 is valid
+2015-11-05T08:55:22.351Z - info: Dining room id 1 is valid
+2015-11-05T08:55:22.836Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:22.851Z - info: Dining room id 1 is valid
+2015-11-05T08:55:22.854Z - info: Dining room id 2 is valid
+2015-11-05T08:55:23.276Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:23.355Z - info: Dining room id 1 is valid
+2015-11-05T08:55:23.358Z - info: Dining room id 1 is valid
+2015-11-05T08:55:23.841Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:23.860Z - info: Dining room id 1 is valid
+2015-11-05T08:55:23.861Z - info: Dining room id 2 is valid
+2015-11-05T08:55:24.282Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:24.365Z - info: Dining room id 3 is valid
+2015-11-05T08:55:24.367Z - info: Dining room id 1 is valid
+2015-11-05T08:55:24.845Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:24.869Z - info: Dining room id 2 is valid
+2015-11-05T08:55:24.870Z - info: Dining room id 1 is valid
+2015-11-05T08:55:25.097Z - info: Dining room id 1 is valid
+2015-11-05T08:55:25.286Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:25.373Z - info: Dining room id 1 is valid
+2015-11-05T08:55:25.374Z - info: Dining room id 1 is valid
+2015-11-05T08:55:25.850Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:25.878Z - info: Dining room id 1 is valid
+2015-11-05T08:55:25.879Z - info: Dining room id 2 is valid
+2015-11-05T08:55:26.205Z - info: Dining room id 1 is valid
+2015-11-05T08:55:26.208Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:26.290Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:26.383Z - info: Dining room id 1 is valid
+2015-11-05T08:55:26.385Z - info: Dining room id 2 is valid
+2015-11-05T08:55:26.713Z - info: Dining room id 1 is valid
+2015-11-05T08:55:26.854Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:26.886Z - info: Dining room id 2 is valid
+2015-11-05T08:55:26.888Z - info: Dining room id 3 is valid
+2015-11-05T08:55:27.214Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:27.218Z - info: Dining room id 1 is valid
+2015-11-05T08:55:27.294Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:27.391Z - info: Dining room id 3 is valid
+2015-11-05T08:55:27.393Z - info: Dining room id 3 is valid
+2015-11-05T08:55:27.727Z - info: Dining room id 3 is valid
+2015-11-05T08:55:27.859Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:27.894Z - info: Dining room id 3 is valid
+2015-11-05T08:55:27.899Z - info: Dining room id 3 is valid
+2015-11-05T08:55:28.220Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:28.231Z - info: Dining room id 1 is valid
+2015-11-05T08:55:28.299Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:28.399Z - info: Dining room id 1 is valid
+2015-11-05T08:55:28.404Z - info: Dining room id 1 is valid
+2015-11-05T08:55:28.735Z - info: Dining room id 1 is valid
+2015-11-05T08:55:28.863Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:28.902Z - info: Dining room id 2 is valid
+2015-11-05T08:55:28.907Z - info: Dining room id 2 is valid
+2015-11-05T08:55:29.225Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:29.239Z - info: Dining room id 3 is valid
+2015-11-05T08:55:29.302Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:29.406Z - info: Dining room id 3 is valid
+2015-11-05T08:55:29.410Z - info: Dining room id 3 is valid
+2015-11-05T08:55:29.743Z - info: Dining room id 1 is valid
+2015-11-05T08:55:29.867Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:29.909Z - info: Dining room id 1 is valid
+2015-11-05T08:55:29.913Z - info: Dining room id 1 is valid
+2015-11-05T08:55:30.228Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:30.246Z - info: Dining room id 1 is valid
+2015-11-05T08:55:30.305Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:30.412Z - info: Dining room id 1 is valid
+2015-11-05T08:55:30.416Z - info: Dining room id 3 is valid
+2015-11-05T08:55:30.750Z - info: Dining room id 3 is valid
+2015-11-05T08:55:30.869Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:30.916Z - info: Dining room id 1 is valid
+2015-11-05T08:55:30.919Z - info: Dining room id 3 is valid
+2015-11-05T08:55:31.119Z - info: Dining room id 0 is invalid
+2015-11-05T08:55:31.232Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:31.253Z - info: Dining room id 2 is valid
+2015-11-05T08:55:31.294Z - info: Dining room id 0 is invalid
+2015-11-05T08:55:31.309Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:31.420Z - info: Dining room id 3 is valid
+2015-11-05T08:55:31.423Z - info: Dining room id 2 is valid
+2015-11-05T08:55:31.429Z - info: Dining room id 0 is invalid
+2015-11-05T08:55:31.757Z - info: Dining room id 3 is valid
+2015-11-05T08:55:31.873Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:31.925Z - info: Dining room id 1 is valid
+2015-11-05T08:55:31.927Z - info: Dining room id 2 is valid
+2015-11-05T08:55:32.237Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:32.261Z - info: Dining room id 1 is valid
+2015-11-05T08:55:32.312Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:32.429Z - info: Dining room id 2 is valid
+2015-11-05T08:55:32.431Z - info: Dining room id 2 is valid
+2015-11-05T08:55:32.765Z - info: Dining room id 2 is valid
+2015-11-05T08:55:32.876Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:32.933Z - info: Dining room id 3 is valid
+2015-11-05T08:55:32.934Z - info: Dining room id 2 is valid
+2015-11-05T08:55:33.240Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:33.269Z - info: Dining room id 1 is valid
+2015-11-05T08:55:33.315Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:33.437Z - info: Dining room id 1 is valid
+2015-11-05T08:55:33.439Z - info: Dining room id 2 is valid
+2015-11-05T08:55:33.773Z - info: Dining room id 2 is valid
+2015-11-05T08:55:33.880Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:33.942Z - info: Dining room id 3 is valid
+2015-11-05T08:55:33.943Z - info: Dining room id 2 is valid
+2015-11-05T08:55:34.244Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:34.277Z - info: Dining room id 2 is valid
+2015-11-05T08:55:34.318Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:34.451Z - info: Dining room id 3 is valid
+2015-11-05T08:55:34.452Z - info: Dining room id 1 is valid
+2015-11-05T08:55:34.781Z - info: Dining room id 3 is valid
+2015-11-05T08:55:34.884Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:34.955Z - info: Dining room id 3 is valid
+2015-11-05T08:55:34.957Z - info: Dining room id 3 is valid
+2015-11-05T08:55:35.248Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:35.285Z - info: Dining room id 2 is valid
+2015-11-05T08:55:35.322Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:35.460Z - info: Dining room id 3 is valid
+2015-11-05T08:55:35.461Z - info: Dining room id 3 is valid
+2015-11-05T08:55:35.789Z - info: Dining room id 3 is valid
+2015-11-05T08:55:35.887Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:35.914Z - info: Dining room id 2 is valid
+2015-11-05T08:55:35.964Z - info: Dining room id 3 is valid
+2015-11-05T08:55:35.965Z - info: Dining room id 1 is valid
+2015-11-05T08:55:36.252Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:36.293Z - info: Dining room id 3 is valid
+2015-11-05T08:55:36.325Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:36.412Z - info: Dining room id 2 is valid
+2015-11-05T08:55:36.468Z - info: Dining room id 1 is valid
+2015-11-05T08:55:36.469Z - info: Dining room id 3 is valid
+2015-11-05T08:55:36.598Z - info: Dining room id 2 is valid
+2015-11-05T08:55:36.774Z - info: Dining room id 2 is valid
+2015-11-05T08:55:36.796Z - info: Dining room id 3 is valid
+2015-11-05T08:55:36.891Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:36.950Z - info: Dining room id 2 is valid
+2015-11-05T08:55:36.972Z - info: Dining room id 3 is valid
+2015-11-05T08:55:36.973Z - info: Dining room id 2 is valid
+2015-11-05T08:55:37.137Z - info: Dining room id 2 is valid
+2015-11-05T08:55:37.256Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:37.300Z - info: Dining room id 1 is valid
+2015-11-05T08:55:37.302Z - info: Dining room id 2 is valid
+2015-11-05T08:55:37.329Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:37.476Z - info: Dining room id 3 is valid
+2015-11-05T08:55:37.478Z - info: Dining room id 3 is valid
+2015-11-05T08:55:37.490Z - info: Dining room id 2 is valid
+2015-11-05T08:55:37.645Z - info: Dining room id 2 is valid
+2015-11-05T08:55:37.806Z - info: Dining room id 2 is valid
+2015-11-05T08:55:37.894Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:37.981Z - info: Dining room id 2 is valid
+2015-11-05T08:55:37.983Z - info: Dining room id 1 is valid
+2015-11-05T08:55:38.260Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:38.310Z - info: Dining room id 3 is valid
+2015-11-05T08:55:38.332Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:38.485Z - info: Dining room id 3 is valid
+2015-11-05T08:55:38.487Z - info: Dining room id 3 is valid
+2015-11-05T08:55:38.587Z - info: Dining room id 2 is valid
+2015-11-05T08:55:38.590Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:38.814Z - info: Dining room id 3 is valid
+2015-11-05T08:55:38.898Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:38.989Z - info: Dining room id 2 is valid
+2015-11-05T08:55:38.993Z - info: Dining room id 3 is valid
+2015-11-05T08:55:39.095Z - info: Dining room id 1 is valid
+2015-11-05T08:55:39.264Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:39.317Z - info: Dining room id 1 is valid
+2015-11-05T08:55:39.335Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:39.494Z - info: Dining room id 1 is valid
+2015-11-05T08:55:39.496Z - info: Dining room id 3 is valid
+2015-11-05T08:55:39.599Z - info: Dining room id 1 is valid
+2015-11-05T08:55:39.602Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:39.821Z - info: Dining room id 1 is valid
+2015-11-05T08:55:39.901Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:39.998Z - info: Dining room id 2 is valid
+2015-11-05T08:55:40.000Z - info: Dining room id 3 is valid
+2015-11-05T08:55:40.103Z - info: Dining room id 1 is valid
+2015-11-05T08:55:40.268Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:40.325Z - info: Dining room id 1 is valid
+2015-11-05T08:55:40.338Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:40.502Z - info: Dining room id 1 is valid
+2015-11-05T08:55:40.504Z - info: Dining room id 2 is valid
+2015-11-05T08:55:40.606Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:40.607Z - info: Dining room id 2 is valid
+2015-11-05T08:55:40.828Z - info: Dining room id 1 is valid
+2015-11-05T08:55:40.904Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:41.006Z - info: Dining room id 2 is valid
+2015-11-05T08:55:41.008Z - info: Dining room id 2 is valid
+2015-11-05T08:55:41.110Z - info: Dining room id 2 is valid
+2015-11-05T08:55:41.272Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:41.332Z - info: Dining room id 1 is valid
+2015-11-05T08:55:41.342Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:41.510Z - info: Dining room id 2 is valid
+2015-11-05T08:55:41.512Z - info: Dining room id 3 is valid
+2015-11-05T08:55:41.609Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:41.613Z - info: Dining room id 3 is valid
+2015-11-05T08:55:41.836Z - info: Dining room id 1 is valid
+2015-11-05T08:55:41.907Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:42.014Z - info: Dining room id 3 is valid
+2015-11-05T08:55:42.015Z - info: Dining room id 1 is valid
+2015-11-05T08:55:42.116Z - info: Dining room id 1 is valid
+2015-11-05T08:55:42.277Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:42.339Z - info: Dining room id 3 is valid
+2015-11-05T08:55:42.345Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:42.518Z - info: Dining room id 3 is valid
+2015-11-05T08:55:42.519Z - info: Dining room id 1 is valid
+2015-11-05T08:55:42.612Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:42.619Z - info: Dining room id 2 is valid
+2015-11-05T08:55:42.843Z - info: Dining room id 1 is valid
+2015-11-05T08:55:42.911Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:43.022Z - info: Dining room id 3 is valid
+2015-11-05T08:55:43.023Z - info: Dining room id 2 is valid
+2015-11-05T08:55:43.122Z - info: Dining room id 1 is valid
+2015-11-05T08:55:43.281Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:43.346Z - info: Dining room id 3 is valid
+2015-11-05T08:55:43.348Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:43.525Z - info: Dining room id 3 is valid
+2015-11-05T08:55:43.527Z - info: Dining room id 3 is valid
+2015-11-05T08:55:43.616Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:43.626Z - info: Dining room id 2 is valid
+2015-11-05T08:55:43.850Z - info: Dining room id 2 is valid
+2015-11-05T08:55:43.915Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:44.029Z - info: Dining room id 1 is valid
+2015-11-05T08:55:44.031Z - info: Dining room id 2 is valid
+2015-11-05T08:55:44.129Z - info: Dining room id 1 is valid
+2015-11-05T08:55:44.285Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:44.351Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:44.353Z - info: Dining room id 2 is valid
+2015-11-05T08:55:44.533Z - info: Dining room id 1 is valid
+2015-11-05T08:55:44.535Z - info: Dining room id 1 is valid
+2015-11-05T08:55:44.620Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:44.633Z - info: Dining room id 2 is valid
+2015-11-05T08:55:44.857Z - info: Dining room id 1 is valid
+2015-11-05T08:55:44.919Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:45.037Z - info: Dining room id 1 is valid
+2015-11-05T08:55:45.039Z - info: Dining room id 2 is valid
+2015-11-05T08:55:45.136Z - info: Dining room id 3 is valid
+2015-11-05T08:55:45.295Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:45.356Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:45.360Z - info: Dining room id 3 is valid
+2015-11-05T08:55:45.541Z - info: Dining room id 1 is valid
+2015-11-05T08:55:45.543Z - info: Dining room id 2 is valid
+2015-11-05T08:55:45.625Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:45.640Z - info: Dining room id 2 is valid
+2015-11-05T08:55:45.865Z - info: Dining room id 2 is valid
+2015-11-05T08:55:45.923Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:46.046Z - info: Dining room id 1 is valid
+2015-11-05T08:55:46.047Z - info: Dining room id 3 is valid
+2015-11-05T08:55:46.144Z - info: Dining room id 3 is valid
+2015-11-05T08:55:46.301Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:46.360Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:46.368Z - info: Dining room id 2 is valid
+2015-11-05T08:55:46.535Z - info: Dining room id 2 is valid
+2015-11-05T08:55:46.538Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:47.042Z - info: Dining room id 3 is valid
+2015-11-05T08:55:47.518Z - info: Dining room id 2 is valid
+2015-11-05T08:55:47.519Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:48.034Z - info: Dining room id 2 is valid
+2015-11-05T08:55:48.035Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:48.451Z - info: Dining room id 2 is valid
+2015-11-05T08:55:48.451Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:48.976Z - info: Dining room id 1 is valid
+2015-11-05T08:55:48.977Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:49.480Z - info: Dining room id 1 is valid
+2015-11-05T08:55:49.983Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:49.985Z - info: Dining room id 1 is valid
+2015-11-05T08:55:50.488Z - info: Dining room id 2 is valid
+2015-11-05T08:55:50.987Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:50.991Z - info: Dining room id 3 is valid
+2015-11-05T08:55:51.495Z - info: Dining room id 3 is valid
+2015-11-05T08:55:51.992Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:51.999Z - info: Dining room id 1 is valid
+2015-11-05T08:55:52.504Z - info: Dining room id 2 is valid
+2015-11-05T08:55:52.995Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:53.007Z - info: Dining room id 3 is valid
+2015-11-05T08:55:53.511Z - info: Dining room id 3 is valid
+2015-11-05T08:55:53.862Z - info: Dining room id 1 is valid
+2015-11-05T08:55:53.999Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:54.015Z - info: Dining room id 1 is valid
+2015-11-05T08:55:54.519Z - info: Dining room id 1 is valid
+2015-11-05T08:55:55.014Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:55.023Z - info: Dining room id 2 is valid
+2015-11-05T08:55:55.527Z - info: Dining room id 2 is valid
+2015-11-05T08:55:56.018Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:56.031Z - info: Dining room id 1 is valid
+2015-11-05T08:55:56.534Z - info: Dining room id 3 is valid
+2015-11-05T08:55:56.555Z - info: Dining room id 1 is valid
+2015-11-05T08:55:57.022Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:57.038Z - info: Dining room id 1 is valid
+2015-11-05T08:55:57.254Z - info: Dining room id 3 is valid
+2015-11-05T08:55:57.257Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:55:57.542Z - info: Dining room id 2 is valid
+2015-11-05T08:55:57.767Z - info: Dining room id 1 is valid
+2015-11-05T08:55:58.032Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:58.046Z - info: Dining room id 3 is valid
+2015-11-05T08:55:58.271Z - info: Dining room id 3 is valid
+2015-11-05T08:55:58.273Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:58.550Z - info: Dining room id 3 is valid
+2015-11-05T08:55:58.781Z - info: Dining room id 1 is valid
+2015-11-05T08:55:59.036Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:55:59.054Z - info: Dining room id 3 is valid
+2015-11-05T08:55:59.241Z - info: Dining room id 2 is valid
+2015-11-05T08:55:59.242Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:55:59.726Z - info: Dining room id 3 is valid
+2015-11-05T08:55:59.726Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:56:00.231Z - info: Dining room id 3 is valid
+2015-11-05T08:56:00.733Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:56:00.735Z - info: Dining room id 2 is valid
+2015-11-05T08:56:01.246Z - info: Dining room id 3 is valid
+2015-11-05T08:56:01.471Z - info: Dining room id 1 is valid
+2015-11-05T08:56:01.471Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:56:01.790Z - info: Dining room id 2 is valid
+2015-11-05T08:56:01.791Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:02.296Z - info: Dining room id 1 is valid
+2015-11-05T08:56:02.799Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:02.800Z - info: Dining room id 2 is valid
+2015-11-05T08:56:03.310Z - info: Dining room id 2 is valid
+2015-11-05T08:56:03.805Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:03.814Z - info: Dining room id 2 is valid
+2015-11-05T08:56:04.318Z - info: Dining room id 3 is valid
+2015-11-05T08:56:04.814Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:04.822Z - info: Dining room id 1 is valid
+2015-11-05T08:56:05.326Z - info: Dining room id 1 is valid
+2015-11-05T08:56:05.819Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:05.830Z - info: Dining room id 3 is valid
+2015-11-05T08:56:06.334Z - info: Dining room id 3 is valid
+2015-11-05T08:56:06.823Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:56:06.837Z - info: Dining room id 3 is valid
+2015-11-05T08:56:07.342Z - info: Dining room id 2 is valid
+2015-11-05T08:56:07.833Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:07.846Z - info: Dining room id 2 is valid
+2015-11-05T08:56:08.350Z - info: Dining room id 1 is valid
+2015-11-05T08:56:08.837Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:56:08.853Z - info: Dining room id 3 is valid
+2015-11-05T08:56:09.357Z - info: Dining room id 2 is valid
+2015-11-05T08:56:09.841Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:09.862Z - info: Dining room id 3 is valid
+2015-11-05T08:56:10.366Z - info: Dining room id 3 is valid
+2015-11-05T08:56:10.846Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:56:10.870Z - info: Dining room id 1 is valid
+2015-11-05T08:56:11.374Z - info: Dining room id 3 is valid
+2015-11-05T08:56:11.850Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:11.878Z - info: Dining room id 2 is valid
+2015-11-05T08:56:12.382Z - info: Dining room id 2 is valid
+2015-11-05T08:56:12.855Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:56:12.885Z - info: Dining room id 2 is valid
+2015-11-05T08:56:13.390Z - info: Dining room id 3 is valid
+2015-11-05T08:56:13.860Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:13.893Z - info: Dining room id 1 is valid
+2015-11-05T08:56:14.396Z - info: Dining room id 2 is valid
+2015-11-05T08:56:14.865Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:56:14.900Z - info: Dining room id 2 is valid
+2015-11-05T08:56:15.406Z - info: Dining room id 3 is valid
+2015-11-05T08:56:15.869Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:15.909Z - info: Dining room id 3 is valid
+2015-11-05T08:56:16.413Z - info: Dining room id 2 is valid
+2015-11-05T08:56:16.876Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:56:16.917Z - info: Dining room id 1 is valid
+2015-11-05T08:56:17.421Z - info: Dining room id 2 is valid
+2015-11-05T08:56:17.880Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:17.925Z - info: Dining room id 3 is valid
+2015-11-05T08:56:18.429Z - info: Dining room id 3 is valid
+2015-11-05T08:56:18.884Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:56:18.932Z - info: Dining room id 2 is valid
+2015-11-05T08:56:19.437Z - info: Dining room id 2 is valid
+2015-11-05T08:56:19.889Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:56:19.941Z - info: Dining room id 2 is valid
+2015-11-05T08:56:20.445Z - info: Dining room id 1 is valid
+2015-11-05T08:56:20.895Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:20.950Z - info: Dining room id 2 is valid
+2015-11-05T08:56:21.454Z - info: Dining room id 2 is valid
+2015-11-05T08:56:21.898Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:21.957Z - info: Dining room id 2 is valid
+2015-11-05T08:56:22.461Z - info: Dining room id 1 is valid
+2015-11-05T08:56:22.905Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:56:22.965Z - info: Dining room id 3 is valid
+2015-11-05T08:56:23.469Z - info: Dining room id 3 is valid
+2015-11-05T08:56:23.909Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:56:23.973Z - info: Dining room id 1 is valid
+2015-11-05T08:56:24.477Z - info: Dining room id 1 is valid
+2015-11-05T08:56:24.913Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:56:24.981Z - info: Dining room id 1 is valid
+2015-11-05T08:56:25.485Z - info: Dining room id 2 is valid
+2015-11-05T08:56:25.921Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:56:25.989Z - info: Dining room id 3 is valid
+2015-11-05T08:56:26.493Z - info: Dining room id 1 is valid
+2015-11-05T08:56:26.925Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:56:26.997Z - info: Dining room id 3 is valid
+2015-11-05T08:56:27.501Z - info: Dining room id 2 is valid
+2015-11-05T08:56:27.929Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:28.004Z - info: Dining room id 2 is valid
+2015-11-05T08:56:28.508Z - info: Dining room id 3 is valid
+2015-11-05T08:56:28.933Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:29.012Z - info: Dining room id 2 is valid
+2015-11-05T08:56:29.517Z - info: Dining room id 1 is valid
+2015-11-05T08:56:29.937Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:56:30.021Z - info: Dining room id 1 is valid
+2015-11-05T08:56:30.526Z - info: Dining room id 2 is valid
+2015-11-05T08:56:30.942Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:31.029Z - info: Dining room id 2 is valid
+2015-11-05T08:56:31.533Z - info: Dining room id 2 is valid
+2015-11-05T08:56:31.948Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:56:32.037Z - info: Dining room id 3 is valid
+2015-11-05T08:56:32.541Z - info: Dining room id 2 is valid
+2015-11-05T08:56:32.952Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:33.045Z - info: Dining room id 3 is valid
+2015-11-05T08:56:33.549Z - info: Dining room id 3 is valid
+2015-11-05T08:56:33.956Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:56:34.052Z - info: Dining room id 1 is valid
+2015-11-05T08:56:34.556Z - info: Dining room id 1 is valid
+2015-11-05T08:56:34.960Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:56:35.060Z - info: Dining room id 3 is valid
+2015-11-05T08:56:35.565Z - info: Dining room id 3 is valid
+2015-11-05T08:56:35.964Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:56:36.069Z - info: Dining room id 1 is valid
+2015-11-05T08:56:36.573Z - info: Dining room id 2 is valid
+2015-11-05T08:56:36.967Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:56:37.077Z - info: Dining room id 1 is valid
+2015-11-05T08:56:37.581Z - info: Dining room id 1 is valid
+2015-11-05T08:56:37.971Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:38.085Z - info: Dining room id 2 is valid
+2015-11-05T08:56:38.590Z - info: Dining room id 3 is valid
+2015-11-05T08:56:38.977Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:56:39.095Z - info: Dining room id 1 is valid
+2015-11-05T08:56:39.600Z - info: Dining room id 1 is valid
+2015-11-05T08:56:39.981Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:56:40.104Z - info: Dining room id 1 is valid
+2015-11-05T08:56:40.608Z - info: Dining room id 2 is valid
+2015-11-05T08:56:40.988Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:56:41.112Z - info: Dining room id 2 is valid
+2015-11-05T08:56:41.615Z - info: Dining room id 2 is valid
+2015-11-05T08:56:41.992Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:42.119Z - info: Dining room id 3 is valid
+2015-11-05T08:56:42.623Z - info: Dining room id 1 is valid
+2015-11-05T08:56:42.997Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:56:43.127Z - info: Dining room id 2 is valid
+2015-11-05T08:56:43.631Z - info: Dining room id 2 is valid
+2015-11-05T08:56:44.000Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:56:44.135Z - info: Dining room id 1 is valid
+2015-11-05T08:56:44.638Z - info: Dining room id 2 is valid
+2015-11-05T08:56:45.003Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:45.143Z - info: Dining room id 3 is valid
+2015-11-05T08:56:45.647Z - info: Dining room id 2 is valid
+2015-11-05T08:56:46.007Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:46.150Z - info: Dining room id 2 is valid
+2015-11-05T08:56:46.654Z - info: Dining room id 2 is valid
+2015-11-05T08:56:47.011Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:47.157Z - info: Dining room id 1 is valid
+2015-11-05T08:56:47.661Z - info: Dining room id 1 is valid
+2015-11-05T08:56:48.015Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:56:48.166Z - info: Dining room id 3 is valid
+2015-11-05T08:56:48.670Z - info: Dining room id 3 is valid
+2015-11-05T08:56:49.019Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:56:49.174Z - info: Dining room id 3 is valid
+2015-11-05T08:56:49.678Z - info: Dining room id 2 is valid
+2015-11-05T08:56:50.024Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:56:50.182Z - info: Dining room id 3 is valid
+2015-11-05T08:56:50.686Z - info: Dining room id 1 is valid
+2015-11-05T08:56:51.028Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:51.190Z - info: Dining room id 3 is valid
+2015-11-05T08:56:51.693Z - info: Dining room id 1 is valid
+2015-11-05T08:56:52.032Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:56:52.197Z - info: Dining room id 3 is valid
+2015-11-05T08:56:52.701Z - info: Dining room id 3 is valid
+2015-11-05T08:56:53.037Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:56:53.205Z - info: Dining room id 1 is valid
+2015-11-05T08:56:53.709Z - info: Dining room id 2 is valid
+2015-11-05T08:56:54.040Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:56:54.212Z - info: Dining room id 1 is valid
+2015-11-05T08:56:54.716Z - info: Dining room id 3 is valid
+2015-11-05T08:56:55.043Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:55.220Z - info: Dining room id 2 is valid
+2015-11-05T08:56:55.725Z - info: Dining room id 3 is valid
+2015-11-05T08:56:56.050Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:56:56.229Z - info: Dining room id 3 is valid
+2015-11-05T08:56:56.733Z - info: Dining room id 2 is valid
+2015-11-05T08:56:57.054Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:57.236Z - info: Dining room id 2 is valid
+2015-11-05T08:56:57.740Z - info: Dining room id 3 is valid
+2015-11-05T08:56:58.058Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:56:58.244Z - info: Dining room id 2 is valid
+2015-11-05T08:56:58.748Z - info: Dining room id 1 is valid
+2015-11-05T08:56:59.063Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:56:59.252Z - info: Dining room id 2 is valid
+2015-11-05T08:56:59.756Z - info: Dining room id 3 is valid
+2015-11-05T08:57:00.067Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:57:00.260Z - info: Dining room id 2 is valid
+2015-11-05T08:57:00.764Z - info: Dining room id 2 is valid
+2015-11-05T08:57:01.071Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:57:01.268Z - info: Dining room id 1 is valid
+2015-11-05T08:57:01.772Z - info: Dining room id 3 is valid
+2015-11-05T08:57:02.075Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:57:02.277Z - info: Dining room id 3 is valid
+2015-11-05T08:57:02.781Z - info: Dining room id 3 is valid
+2015-11-05T08:57:03.079Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:57:03.284Z - info: Dining room id 2 is valid
+2015-11-05T08:57:03.788Z - info: Dining room id 1 is valid
+2015-11-05T08:57:04.082Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:57:04.292Z - info: Dining room id 1 is valid
+2015-11-05T08:57:04.797Z - info: Dining room id 3 is valid
+2015-11-05T08:57:05.091Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:57:05.301Z - info: Dining room id 2 is valid
+2015-11-05T08:57:05.804Z - info: Dining room id 3 is valid
+2015-11-05T08:57:06.095Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:57:06.309Z - info: Dining room id 2 is valid
+2015-11-05T08:57:06.813Z - info: Dining room id 2 is valid
+2015-11-05T08:57:07.099Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:57:07.316Z - info: Dining room id 3 is valid
+2015-11-05T08:57:07.820Z - info: Dining room id 1 is valid
+2015-11-05T08:57:08.103Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:57:08.325Z - info: Dining room id 1 is valid
+2015-11-05T08:57:08.829Z - info: Dining room id 1 is valid
+2015-11-05T08:57:09.106Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:57:09.333Z - info: Dining room id 3 is valid
+2015-11-05T08:57:09.837Z - info: Dining room id 1 is valid
+2015-11-05T08:57:10.110Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:57:10.341Z - info: Dining room id 3 is valid
+2015-11-05T08:57:10.845Z - info: Dining room id 3 is valid
+2015-11-05T08:57:11.115Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:57:11.349Z - info: Dining room id 3 is valid
+2015-11-05T08:57:11.853Z - info: Dining room id 3 is valid
+2015-11-05T08:57:12.119Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:57:12.357Z - info: Dining room id 1 is valid
+2015-11-05T08:57:12.861Z - info: Dining room id 1 is valid
+2015-11-05T08:57:13.122Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:57:13.366Z - info: Dining room id 1 is valid
+2015-11-05T08:57:13.870Z - info: Dining room id 1 is valid
+2015-11-05T08:57:14.129Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:57:14.374Z - info: Dining room id 1 is valid
+2015-11-05T08:57:14.878Z - info: Dining room id 1 is valid
+2015-11-05T08:57:15.134Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:57:15.382Z - info: Dining room id 3 is valid
+2015-11-05T08:57:15.886Z - info: Dining room id 1 is valid
+2015-11-05T08:57:16.138Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:57:16.390Z - info: Dining room id 2 is valid
+2015-11-05T08:57:16.894Z - info: Dining room id 1 is valid
+2015-11-05T08:57:17.142Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:57:17.398Z - info: Dining room id 3 is valid
+2015-11-05T08:57:17.902Z - info: Dining room id 1 is valid
+2015-11-05T08:57:18.146Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:57:18.406Z - info: Dining room id 1 is valid
+2015-11-05T08:57:18.910Z - info: Dining room id 1 is valid
+2015-11-05T08:57:19.150Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:57:19.413Z - info: Dining room id 1 is valid
+2015-11-05T08:57:19.917Z - info: Dining room id 2 is valid
+2015-11-05T08:57:20.156Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:57:20.421Z - info: Dining room id 3 is valid
+2015-11-05T08:57:20.925Z - info: Dining room id 1 is valid
+2015-11-05T08:57:21.160Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:57:21.429Z - info: Dining room id 2 is valid
+2015-11-05T08:57:21.934Z - info: Dining room id 2 is valid
+2015-11-05T08:57:22.163Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:57:22.437Z - info: Dining room id 1 is valid
+2015-11-05T08:57:22.942Z - info: Dining room id 2 is valid
+2015-11-05T08:57:23.167Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:57:23.446Z - info: Dining room id 1 is valid
+2015-11-05T08:57:23.949Z - info: Dining room id 1 is valid
+2015-11-05T08:57:24.171Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:57:24.453Z - info: Dining room id 1 is valid
+2015-11-05T08:57:24.957Z - info: Dining room id 2 is valid
+2015-11-05T08:57:25.175Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:57:25.462Z - info: Dining room id 2 is valid
+2015-11-05T08:57:25.966Z - info: Dining room id 1 is valid
+2015-11-05T08:57:26.178Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:57:26.470Z - info: Dining room id 1 is valid
+2015-11-05T08:57:26.974Z - info: Dining room id 2 is valid
+2015-11-05T08:57:27.183Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:57:27.478Z - info: Dining room id 2 is valid
+2015-11-05T08:57:27.982Z - info: Dining room id 3 is valid
+2015-11-05T08:57:28.186Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:57:28.485Z - info: Dining room id 3 is valid
+2015-11-05T08:57:28.990Z - info: Dining room id 3 is valid
+2015-11-05T08:57:29.190Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:57:29.494Z - info: Dining room id 1 is valid
+2015-11-05T08:57:29.998Z - info: Dining room id 1 is valid
+2015-11-05T08:57:30.194Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:57:30.502Z - info: Dining room id 2 is valid
+2015-11-05T08:57:31.007Z - info: Dining room id 2 is valid
+2015-11-05T08:57:31.199Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:57:31.511Z - info: Dining room id 1 is valid
+2015-11-05T08:57:32.015Z - info: Dining room id 2 is valid
+2015-11-05T08:57:32.202Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:57:32.519Z - info: Dining room id 3 is valid
+2015-11-05T08:57:33.023Z - info: Dining room id 2 is valid
+2015-11-05T08:57:33.207Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:57:33.527Z - info: Dining room id 3 is valid
+2015-11-05T08:57:34.031Z - info: Dining room id 2 is valid
+2015-11-05T08:57:34.211Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:57:34.535Z - info: Dining room id 3 is valid
+2015-11-05T08:57:35.039Z - info: Dining room id 1 is valid
+2015-11-05T08:57:35.214Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:57:35.543Z - info: Dining room id 2 is valid
+2015-11-05T08:57:36.047Z - info: Dining room id 3 is valid
+2015-11-05T08:57:36.219Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:57:36.552Z - info: Dining room id 3 is valid
+2015-11-05T08:57:37.055Z - info: Dining room id 1 is valid
+2015-11-05T08:57:37.222Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:57:37.559Z - info: Dining room id 2 is valid
+2015-11-05T08:57:38.063Z - info: Dining room id 1 is valid
+2015-11-05T08:57:38.226Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:57:38.568Z - info: Dining room id 1 is valid
+2015-11-05T08:57:39.072Z - info: Dining room id 3 is valid
+2015-11-05T08:57:39.231Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:57:39.575Z - info: Dining room id 3 is valid
+2015-11-05T08:57:40.078Z - info: Dining room id 1 is valid
+2015-11-05T08:57:40.234Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:57:40.582Z - info: Dining room id 1 is valid
+2015-11-05T08:57:41.086Z - info: Dining room id 2 is valid
+2015-11-05T08:57:41.238Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:57:41.591Z - info: Dining room id 1 is valid
+2015-11-05T08:57:42.095Z - info: Dining room id 1 is valid
+2015-11-05T08:57:42.243Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:57:42.598Z - info: Dining room id 1 is valid
+2015-11-05T08:57:43.103Z - info: Dining room id 1 is valid
+2015-11-05T08:57:43.248Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:57:43.607Z - info: Dining room id 2 is valid
+2015-11-05T08:57:44.111Z - info: Dining room id 3 is valid
+2015-11-05T08:57:44.253Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:57:44.615Z - info: Dining room id 2 is valid
+2015-11-05T08:57:45.119Z - info: Dining room id 2 is valid
+2015-11-05T08:57:45.255Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:57:45.623Z - info: Dining room id 3 is valid
+2015-11-05T08:57:46.126Z - info: Dining room id 3 is valid
+2015-11-05T08:57:46.258Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:57:46.717Z - info: Dining room id 3 is valid
+2015-11-05T08:58:00.791Z - info: Dining room id 3 is valid
+2015-11-05T08:58:02.649Z - info: Dining room id 2 is valid
+2015-11-05T08:58:02.649Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:58:32.672Z - info: Dining room id 3 is valid
+2015-11-05T08:58:32.672Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:58:35.210Z - info: Dining room id 3 is valid
+2015-11-05T08:58:35.210Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:58:35.958Z - info: Dining room id 3 is valid
+2015-11-05T08:58:35.960Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:58:38.307Z - info: Dining room id 2 is valid
+2015-11-05T08:58:38.808Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:58:38.811Z - info: Dining room id 3 is valid
+2015-11-05T08:58:39.314Z - info: Dining room id 3 is valid
+2015-11-05T08:58:39.813Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:58:39.819Z - info: Dining room id 2 is valid
+2015-11-05T08:58:40.323Z - info: Dining room id 1 is valid
+2015-11-05T08:58:40.818Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:58:40.828Z - info: Dining room id 3 is valid
+2015-11-05T08:58:41.332Z - info: Dining room id 2 is valid
+2015-11-05T08:58:41.823Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:58:41.836Z - info: Dining room id 2 is valid
+2015-11-05T08:58:42.340Z - info: Dining room id 1 is valid
+2015-11-05T08:58:42.827Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:58:42.843Z - info: Dining room id 1 is valid
+2015-11-05T08:58:43.348Z - info: Dining room id 1 is valid
+2015-11-05T08:58:43.831Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:58:43.852Z - info: Dining room id 3 is valid
+2015-11-05T08:58:44.356Z - info: Dining room id 1 is valid
+2015-11-05T08:58:44.634Z - info: Dining room id 1 is valid
+2015-11-05T08:58:44.835Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:58:44.860Z - info: Dining room id 2 is valid
+2015-11-05T08:58:45.364Z - info: Dining room id 3 is valid
+2015-11-05T08:58:45.809Z - info: Dining room id 3 is valid
+2015-11-05T08:58:45.811Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:58:45.839Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:58:45.868Z - info: Dining room id 2 is valid
+2015-11-05T08:58:46.318Z - info: Dining room id 2 is valid
+2015-11-05T08:58:46.371Z - info: Dining room id 1 is valid
+2015-11-05T08:58:46.819Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:58:46.822Z - info: Dining room id 1 is valid
+2015-11-05T08:58:46.841Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:58:46.874Z - info: Dining room id 2 is valid
+2015-11-05T08:58:47.325Z - info: Dining room id 1 is valid
+2015-11-05T08:58:47.377Z - info: Dining room id 1 is valid
+2015-11-05T08:58:47.824Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:58:47.829Z - info: Dining room id 1 is valid
+2015-11-05T08:58:47.845Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:58:47.880Z - info: Dining room id 1 is valid
+2015-11-05T08:58:48.333Z - info: Dining room id 1 is valid
+2015-11-05T08:58:48.384Z - info: Dining room id 2 is valid
+2015-11-05T08:58:48.827Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:58:48.835Z - info: Dining room id 1 is valid
+2015-11-05T08:58:48.848Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:58:48.888Z - info: Dining room id 2 is valid
+2015-11-05T08:58:49.340Z - info: Dining room id 1 is valid
+2015-11-05T08:58:51.098Z - info: Dining room id 3 is valid
+2015-11-05T08:58:51.099Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:58:51.811Z - info: Dining room id 1 is valid
+2015-11-05T08:58:51.813Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:58:52.554Z - info: Dining room id 2 is valid
+2015-11-05T08:58:52.554Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:58:53.552Z - info: Dining room id 1 is valid
+2015-11-05T08:58:53.553Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:58:57.089Z - info: Dining room id 2 is valid
+2015-11-05T08:58:57.590Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:58:57.593Z - info: Dining room id 1 is valid
+2015-11-05T08:58:58.106Z - info: Dining room id 1 is valid
+2015-11-05T08:58:58.596Z - info: Dining room id 3 is invalid
+2015-11-05T08:58:58.610Z - info: Dining room id 2 is valid
+2015-11-05T08:58:59.114Z - info: Dining room id 3 is valid
+2015-11-05T08:58:59.601Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:58:59.619Z - info: Dining room id 2 is valid
+2015-11-05T08:59:00.124Z - info: Dining room id 1 is valid
+2015-11-05T08:59:00.605Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:59:00.628Z - info: Dining room id 2 is valid
+2015-11-05T08:59:01.132Z - info: Dining room id 2 is valid
+2015-11-05T08:59:01.609Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:01.635Z - info: Dining room id 1 is valid
+2015-11-05T08:59:02.141Z - info: Dining room id 1 is valid
+2015-11-05T08:59:02.615Z - info: Dining room id 3 is invalid
+2015-11-05T08:59:02.645Z - info: Dining room id 2 is valid
+2015-11-05T08:59:03.149Z - info: Dining room id 1 is valid
+2015-11-05T08:59:03.619Z - info: Dining room id 3 is invalid
+2015-11-05T08:59:03.652Z - info: Dining room id 3 is valid
+2015-11-05T08:59:04.157Z - info: Dining room id 3 is valid
+2015-11-05T08:59:04.623Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:59:04.660Z - info: Dining room id 2 is valid
+2015-11-05T08:59:05.164Z - info: Dining room id 3 is valid
+2015-11-05T08:59:05.627Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:59:05.668Z - info: Dining room id 2 is valid
+2015-11-05T08:59:06.172Z - info: Dining room id 3 is valid
+2015-11-05T08:59:06.632Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:06.676Z - info: Dining room id 1 is valid
+2015-11-05T08:59:07.180Z - info: Dining room id 3 is valid
+2015-11-05T08:59:07.636Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:07.683Z - info: Dining room id 2 is valid
+2015-11-05T08:59:08.187Z - info: Dining room id 1 is valid
+2015-11-05T08:59:08.640Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:08.691Z - info: Dining room id 3 is valid
+2015-11-05T08:59:09.195Z - info: Dining room id 3 is valid
+2015-11-05T08:59:09.645Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:09.699Z - info: Dining room id 3 is valid
+2015-11-05T08:59:10.203Z - info: Dining room id 2 is valid
+2015-11-05T08:59:10.648Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:10.707Z - info: Dining room id 2 is valid
+2015-11-05T08:59:11.210Z - info: Dining room id 1 is valid
+2015-11-05T08:59:11.652Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:59:11.715Z - info: Dining room id 1 is valid
+2015-11-05T08:59:12.219Z - info: Dining room id 2 is valid
+2015-11-05T08:59:12.657Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:12.723Z - info: Dining room id 1 is valid
+2015-11-05T08:59:13.227Z - info: Dining room id 1 is valid
+2015-11-05T08:59:13.661Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:59:13.731Z - info: Dining room id 2 is valid
+2015-11-05T08:59:14.235Z - info: Dining room id 3 is valid
+2015-11-05T08:59:14.666Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:14.739Z - info: Dining room id 1 is valid
+2015-11-05T08:59:15.243Z - info: Dining room id 1 is valid
+2015-11-05T08:59:15.671Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:15.748Z - info: Dining room id 2 is valid
+2015-11-05T08:59:16.252Z - info: Dining room id 1 is valid
+2015-11-05T08:59:16.675Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:16.756Z - info: Dining room id 2 is valid
+2015-11-05T08:59:17.260Z - info: Dining room id 2 is valid
+2015-11-05T08:59:17.679Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:17.765Z - info: Dining room id 2 is valid
+2015-11-05T08:59:18.268Z - info: Dining room id 2 is valid
+2015-11-05T08:59:18.684Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:18.772Z - info: Dining room id 2 is valid
+2015-11-05T08:59:19.276Z - info: Dining room id 2 is valid
+2015-11-05T08:59:19.688Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:19.781Z - info: Dining room id 1 is valid
+2015-11-05T08:59:20.285Z - info: Dining room id 1 is valid
+2015-11-05T08:59:20.692Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:59:20.789Z - info: Dining room id 3 is valid
+2015-11-05T08:59:21.293Z - info: Dining room id 2 is valid
+2015-11-05T08:59:21.697Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:59:21.797Z - info: Dining room id 3 is valid
+2015-11-05T08:59:22.301Z - info: Dining room id 3 is valid
+2015-11-05T08:59:22.701Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:59:22.805Z - info: Dining room id 1 is valid
+2015-11-05T08:59:23.309Z - info: Dining room id 3 is valid
+2015-11-05T08:59:23.705Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:23.812Z - info: Dining room id 3 is valid
+2015-11-05T08:59:24.316Z - info: Dining room id 3 is valid
+2015-11-05T08:59:24.710Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:59:24.821Z - info: Dining room id 1 is valid
+2015-11-05T08:59:25.325Z - info: Dining room id 2 is valid
+2015-11-05T08:59:25.714Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:25.828Z - info: Dining room id 1 is valid
+2015-11-05T08:59:26.333Z - info: Dining room id 2 is valid
+2015-11-05T08:59:26.719Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:59:26.837Z - info: Dining room id 3 is valid
+2015-11-05T08:59:27.341Z - info: Dining room id 1 is valid
+2015-11-05T08:59:27.724Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:59:27.845Z - info: Dining room id 1 is valid
+2015-11-05T08:59:28.349Z - info: Dining room id 2 is valid
+2015-11-05T08:59:28.728Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:59:28.853Z - info: Dining room id 3 is valid
+2015-11-05T08:59:29.357Z - info: Dining room id 2 is valid
+2015-11-05T08:59:29.731Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:59:29.860Z - info: Dining room id 3 is valid
+2015-11-05T08:59:30.364Z - info: Dining room id 1 is valid
+2015-11-05T08:59:30.735Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:30.868Z - info: Dining room id 1 is valid
+2015-11-05T08:59:31.372Z - info: Dining room id 2 is valid
+2015-11-05T08:59:31.739Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:31.876Z - info: Dining room id 1 is valid
+2015-11-05T08:59:32.380Z - info: Dining room id 1 is valid
+2015-11-05T08:59:32.743Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:32.884Z - info: Dining room id 1 is valid
+2015-11-05T08:59:33.389Z - info: Dining room id 1 is valid
+2015-11-05T08:59:33.747Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:59:33.892Z - info: Dining room id 2 is valid
+2015-11-05T08:59:34.396Z - info: Dining room id 1 is valid
+2015-11-05T08:59:34.751Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:59:34.900Z - info: Dining room id 1 is valid
+2015-11-05T08:59:35.404Z - info: Dining room id 2 is valid
+2015-11-05T08:59:35.755Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:35.908Z - info: Dining room id 1 is valid
+2015-11-05T08:59:36.412Z - info: Dining room id 3 is valid
+2015-11-05T08:59:36.759Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:59:36.916Z - info: Dining room id 2 is valid
+2015-11-05T08:59:37.419Z - info: Dining room id 2 is valid
+2015-11-05T08:59:37.763Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:37.923Z - info: Dining room id 2 is valid
+2015-11-05T08:59:38.427Z - info: Dining room id 3 is valid
+2015-11-05T08:59:38.766Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:38.931Z - info: Dining room id 3 is valid
+2015-11-05T08:59:39.435Z - info: Dining room id 3 is valid
+2015-11-05T08:59:39.771Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:59:39.939Z - info: Dining room id 2 is valid
+2015-11-05T08:59:40.443Z - info: Dining room id 3 is valid
+2015-11-05T08:59:40.774Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:59:40.947Z - info: Dining room id 1 is valid
+2015-11-05T08:59:41.451Z - info: Dining room id 1 is valid
+2015-11-05T08:59:41.778Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:59:41.954Z - info: Dining room id 1 is valid
+2015-11-05T08:59:42.458Z - info: Dining room id 2 is valid
+2015-11-05T08:59:42.782Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:59:42.962Z - info: Dining room id 3 is valid
+2015-11-05T08:59:43.467Z - info: Dining room id 3 is valid
+2015-11-05T08:59:43.786Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:59:43.970Z - info: Dining room id 1 is valid
+2015-11-05T08:59:44.474Z - info: Dining room id 1 is valid
+2015-11-05T08:59:44.790Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:59:44.978Z - info: Dining room id 3 is valid
+2015-11-05T08:59:45.482Z - info: Dining room id 2 is valid
+2015-11-05T08:59:45.794Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:59:45.986Z - info: Dining room id 1 is valid
+2015-11-05T08:59:46.489Z - info: Dining room id 3 is valid
+2015-11-05T08:59:46.798Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:59:46.993Z - info: Dining room id 1 is valid
+2015-11-05T08:59:47.497Z - info: Dining room id 1 is valid
+2015-11-05T08:59:47.802Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:59:48.001Z - info: Dining room id 1 is valid
+2015-11-05T08:59:48.505Z - info: Dining room id 3 is valid
+2015-11-05T08:59:48.805Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:49.009Z - info: Dining room id 2 is valid
+2015-11-05T08:59:49.514Z - info: Dining room id 3 is valid
+2015-11-05T08:59:49.809Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:59:50.018Z - info: Dining room id 1 is valid
+2015-11-05T08:59:50.523Z - info: Dining room id 1 is valid
+2015-11-05T08:59:50.814Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:51.027Z - info: Dining room id 3 is valid
+2015-11-05T08:59:51.531Z - info: Dining room id 1 is valid
+2015-11-05T08:59:51.818Z - info: delete - Dining room id 3 is valid
+2015-11-05T08:59:52.035Z - info: Dining room id 2 is valid
+2015-11-05T08:59:52.539Z - info: Dining room id 2 is valid
+2015-11-05T08:59:52.822Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:53.042Z - info: Dining room id 1 is valid
+2015-11-05T08:59:53.546Z - info: Dining room id 3 is valid
+2015-11-05T08:59:53.826Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:59:54.050Z - info: Dining room id 1 is valid
+2015-11-05T08:59:54.554Z - info: Dining room id 3 is valid
+2015-11-05T08:59:54.829Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:59:55.058Z - info: Dining room id 2 is valid
+2015-11-05T08:59:55.561Z - info: Dining room id 1 is valid
+2015-11-05T08:59:55.833Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:59:56.065Z - info: Dining room id 1 is valid
+2015-11-05T08:59:56.569Z - info: Dining room id 2 is valid
+2015-11-05T08:59:56.837Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:59:57.073Z - info: Dining room id 2 is valid
+2015-11-05T08:59:57.577Z - info: Dining room id 2 is valid
+2015-11-05T08:59:57.841Z - info: delete - Dining room id 2 is valid
+2015-11-05T08:59:58.081Z - info: Dining room id 2 is valid
+2015-11-05T08:59:58.585Z - info: Dining room id 3 is valid
+2015-11-05T08:59:58.845Z - info: delete - Dining room id 1 is valid
+2015-11-05T08:59:59.089Z - info: Dining room id 3 is valid
+2015-11-05T08:59:59.592Z - info: Dining room id 3 is valid
+2015-11-05T08:59:59.849Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:00:00.096Z - info: Dining room id 1 is valid
+2015-11-05T09:00:00.600Z - info: Dining room id 3 is valid
+2015-11-05T09:00:00.853Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:00:01.104Z - info: Dining room id 1 is valid
+2015-11-05T09:00:01.608Z - info: Dining room id 2 is valid
+2015-11-05T09:00:01.857Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:00:02.112Z - info: Dining room id 2 is valid
+2015-11-05T09:00:02.618Z - info: Dining room id 2 is valid
+2015-11-05T09:00:02.861Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:00:03.122Z - info: Dining room id 1 is valid
+2015-11-05T09:00:03.626Z - info: Dining room id 3 is valid
+2015-11-05T09:00:03.864Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:00:04.130Z - info: Dining room id 1 is valid
+2015-11-05T09:00:04.634Z - info: Dining room id 2 is valid
+2015-11-05T09:00:04.868Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:00:05.137Z - info: Dining room id 1 is valid
+2015-11-05T09:00:05.641Z - info: Dining room id 2 is valid
+2015-11-05T09:00:05.872Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:00:06.145Z - info: Dining room id 2 is valid
+2015-11-05T09:00:06.649Z - info: Dining room id 3 is valid
+2015-11-05T09:00:06.877Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:00:07.153Z - info: Dining room id 3 is valid
+2015-11-05T09:00:07.657Z - info: Dining room id 2 is valid
+2015-11-05T09:00:07.881Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:00:08.162Z - info: Dining room id 1 is valid
+2015-11-05T09:00:08.666Z - info: Dining room id 2 is valid
+2015-11-05T09:00:08.885Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:00:09.169Z - info: Dining room id 1 is valid
+2015-11-05T09:00:09.673Z - info: Dining room id 2 is valid
+2015-11-05T09:00:09.890Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:00:10.177Z - info: Dining room id 3 is valid
+2015-11-05T09:00:10.681Z - info: Dining room id 1 is valid
+2015-11-05T09:00:10.893Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:00:11.185Z - info: Dining room id 1 is valid
+2015-11-05T09:00:11.689Z - info: Dining room id 1 is valid
+2015-11-05T09:00:11.897Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:00:12.193Z - info: Dining room id 2 is valid
+2015-11-05T09:00:12.697Z - info: Dining room id 3 is valid
+2015-11-05T09:00:12.901Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:00:13.201Z - info: Dining room id 2 is valid
+2015-11-05T09:00:13.705Z - info: Dining room id 2 is valid
+2015-11-05T09:00:13.905Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:00:14.209Z - info: Dining room id 2 is valid
+2015-11-05T09:00:14.713Z - info: Dining room id 2 is valid
+2015-11-05T09:00:14.909Z - info: Dining room id 3 is invalid
+2015-11-05T09:00:15.217Z - info: Dining room id 1 is valid
+2015-11-05T09:00:15.644Z - info: Dining room id 3 is valid
+2015-11-05T09:00:15.645Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:00:16.149Z - info: Dining room id 3 is valid
+2015-11-05T09:00:16.654Z - info: Dining room id 1 is valid
+2015-11-05T09:00:16.655Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:00:17.157Z - info: Dining room id 1 is valid
+2015-11-05T09:00:17.659Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:00:17.661Z - info: Dining room id 1 is valid
+2015-11-05T09:00:18.164Z - info: Dining room id 1 is valid
+2015-11-05T09:00:18.662Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:00:18.668Z - info: Dining room id 2 is valid
+2015-11-05T09:00:19.172Z - info: Dining room id 2 is valid
+2015-11-05T09:00:19.667Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:00:19.675Z - info: Dining room id 2 is valid
+2015-11-05T09:00:20.179Z - info: Dining room id 3 is valid
+2015-11-05T09:00:20.670Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:00:20.683Z - info: Dining room id 3 is valid
+2015-11-05T09:00:21.186Z - info: Dining room id 3 is valid
+2015-11-05T09:00:21.740Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:00:21.741Z - info: Dining room id 3 is valid
+2015-11-05T09:00:48.488Z - info: Dining room id 2 is valid
+2015-11-05T09:00:58.249Z - info: Dining room id 3 is valid
+2015-11-05T09:01:39.399Z - info: Dining room id 2 is valid
+2015-11-05T09:03:01.617Z - info:  [*] Listening at http://:::3000
+2015-11-05T09:03:06.253Z - info: Dining room id 3 is valid
+2015-11-05T09:03:06.255Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:08.597Z - info: Dining room id 1 is valid
+2015-11-05T09:03:09.102Z - info: Dining room id 1 is valid
+2015-11-05T09:03:09.112Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:09.607Z - info: Dining room id 3 is valid
+2015-11-05T09:03:10.116Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:10.118Z - info: Dining room id 3 is valid
+2015-11-05T09:03:10.622Z - info: Dining room id 2 is valid
+2015-11-05T09:03:11.121Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:11.127Z - info: Dining room id 2 is valid
+2015-11-05T09:03:11.632Z - info: Dining room id 2 is valid
+2015-11-05T09:03:12.125Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:12.136Z - info: Dining room id 3 is valid
+2015-11-05T09:03:12.640Z - info: Dining room id 2 is valid
+2015-11-05T09:03:13.129Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:13.144Z - info: Dining room id 1 is valid
+2015-11-05T09:03:13.447Z - info: Dining room id 1 is valid
+2015-11-05T09:03:13.649Z - info: Dining room id 1 is valid
+2015-11-05T09:03:14.133Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:14.153Z - info: Dining room id 3 is valid
+2015-11-05T09:03:14.657Z - info: Dining room id 1 is valid
+2015-11-05T09:03:15.139Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:15.161Z - info: Dining room id 3 is valid
+2015-11-05T09:03:15.665Z - info: Dining room id 1 is valid
+2015-11-05T09:03:16.143Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:16.169Z - info: Dining room id 2 is valid
+2015-11-05T09:03:16.470Z - info: Dining room id 1 is valid
+2015-11-05T09:03:16.673Z - info: Dining room id 2 is valid
+2015-11-05T09:03:17.148Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:17.166Z - info: Dining room id 2 is valid
+2015-11-05T09:03:17.169Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:17.182Z - info: Dining room id 3 is valid
+2015-11-05T09:03:17.676Z - info: Dining room id 2 is valid
+2015-11-05T09:03:17.685Z - info: Dining room id 2 is valid
+2015-11-05T09:03:18.154Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:18.180Z - info: Dining room id 3 is valid
+2015-11-05T09:03:18.182Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:18.189Z - info: Dining room id 2 is valid
+2015-11-05T09:03:18.685Z - info: Dining room id 3 is valid
+2015-11-05T09:03:18.693Z - info: Dining room id 3 is valid
+2015-11-05T09:03:19.159Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:19.186Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:19.190Z - info: Dining room id 3 is valid
+2015-11-05T09:03:19.197Z - info: Dining room id 2 is valid
+2015-11-05T09:03:19.695Z - info: Dining room id 1 is valid
+2015-11-05T09:03:19.702Z - info: Dining room id 3 is valid
+2015-11-05T09:03:20.163Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:20.192Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:20.199Z - info: Dining room id 3 is valid
+2015-11-05T09:03:20.205Z - info: Dining room id 2 is valid
+2015-11-05T09:03:20.703Z - info: Dining room id 1 is valid
+2015-11-05T09:03:20.708Z - info: Dining room id 2 is valid
+2015-11-05T09:03:21.167Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:21.196Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:21.207Z - info: Dining room id 2 is valid
+2015-11-05T09:03:21.212Z - info: Dining room id 1 is valid
+2015-11-05T09:03:21.712Z - info: Dining room id 2 is valid
+2015-11-05T09:03:21.715Z - info: Dining room id 3 is valid
+2015-11-05T09:03:22.172Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:22.200Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:22.216Z - info: Dining room id 3 is valid
+2015-11-05T09:03:22.219Z - info: Dining room id 2 is valid
+2015-11-05T09:03:22.721Z - info: Dining room id 3 is valid
+2015-11-05T09:03:22.722Z - info: Dining room id 1 is valid
+2015-11-05T09:03:23.176Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:23.203Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:23.225Z - info: Dining room id 3 is valid
+2015-11-05T09:03:23.227Z - info: Dining room id 2 is valid
+2015-11-05T09:03:23.730Z - info: Dining room id 1 is valid
+2015-11-05T09:03:23.732Z - info: Dining room id 3 is valid
+2015-11-05T09:03:24.180Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:24.206Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:24.234Z - info: Dining room id 2 is valid
+2015-11-05T09:03:24.236Z - info: Dining room id 2 is valid
+2015-11-05T09:03:24.738Z - info: Dining room id 1 is valid
+2015-11-05T09:03:24.740Z - info: Dining room id 3 is valid
+2015-11-05T09:03:25.184Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:25.210Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:25.243Z - info: Dining room id 2 is valid
+2015-11-05T09:03:25.244Z - info: Dining room id 1 is valid
+2015-11-05T09:03:25.747Z - info: Dining room id 2 is valid
+2015-11-05T09:03:25.748Z - info: Dining room id 1 is valid
+2015-11-05T09:03:25.989Z - info: Dining room id 1 is valid
+2015-11-05T09:03:26.188Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:26.213Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:26.250Z - info: Dining room id 2 is valid
+2015-11-05T09:03:26.252Z - info: Dining room id 2 is valid
+2015-11-05T09:03:26.757Z - info: Dining room id 3 is valid
+2015-11-05T09:03:26.758Z - info: Dining room id 3 is valid
+2015-11-05T09:03:27.081Z - info: Dining room id 2 is valid
+2015-11-05T09:03:27.083Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:27.193Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:27.216Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:27.260Z - info: Dining room id 3 is valid
+2015-11-05T09:03:27.262Z - info: Dining room id 3 is valid
+2015-11-05T09:03:27.587Z - info: Dining room id 2 is valid
+2015-11-05T09:03:27.768Z - info: Dining room id 2 is valid
+2015-11-05T09:03:27.771Z - info: Dining room id 3 is valid
+2015-11-05T09:03:28.088Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:28.090Z - info: Dining room id 1 is valid
+2015-11-05T09:03:28.196Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:28.220Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:28.273Z - info: Dining room id 3 is valid
+2015-11-05T09:03:28.275Z - info: Dining room id 3 is valid
+2015-11-05T09:03:28.594Z - info: Dining room id 1 is valid
+2015-11-05T09:03:28.777Z - info: Dining room id 3 is valid
+2015-11-05T09:03:28.778Z - info: Dining room id 2 is valid
+2015-11-05T09:03:29.093Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:29.099Z - info: Dining room id 2 is valid
+2015-11-05T09:03:29.200Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:29.223Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:29.281Z - info: Dining room id 1 is valid
+2015-11-05T09:03:29.284Z - info: Dining room id 1 is valid
+2015-11-05T09:03:29.603Z - info: Dining room id 3 is valid
+2015-11-05T09:03:29.787Z - info: Dining room id 1 is valid
+2015-11-05T09:03:29.793Z - info: Dining room id 2 is valid
+2015-11-05T09:03:30.097Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:30.109Z - info: Dining room id 3 is valid
+2015-11-05T09:03:30.203Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:30.226Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:30.296Z - info: Dining room id 1 is valid
+2015-11-05T09:03:30.298Z - info: Dining room id 1 is valid
+2015-11-05T09:03:30.613Z - info: Dining room id 1 is valid
+2015-11-05T09:03:30.801Z - info: Dining room id 2 is valid
+2015-11-05T09:03:30.802Z - info: Dining room id 2 is valid
+2015-11-05T09:03:31.100Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:31.117Z - info: Dining room id 1 is valid
+2015-11-05T09:03:31.207Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:31.230Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:31.306Z - info: Dining room id 1 is valid
+2015-11-05T09:03:31.308Z - info: Dining room id 3 is valid
+2015-11-05T09:03:31.622Z - info: Dining room id 3 is valid
+2015-11-05T09:03:31.811Z - info: Dining room id 1 is valid
+2015-11-05T09:03:31.813Z - info: Dining room id 2 is valid
+2015-11-05T09:03:32.104Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:32.126Z - info: Dining room id 1 is valid
+2015-11-05T09:03:32.211Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:32.234Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:32.315Z - info: Dining room id 2 is valid
+2015-11-05T09:03:32.317Z - info: Dining room id 1 is valid
+2015-11-05T09:03:32.630Z - info: Dining room id 1 is valid
+2015-11-05T09:03:32.820Z - info: Dining room id 1 is valid
+2015-11-05T09:03:32.821Z - info: Dining room id 2 is valid
+2015-11-05T09:03:33.109Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:33.134Z - info: Dining room id 3 is valid
+2015-11-05T09:03:33.214Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:33.237Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:33.324Z - info: Dining room id 2 is valid
+2015-11-05T09:03:33.325Z - info: Dining room id 3 is valid
+2015-11-05T09:03:33.638Z - info: Dining room id 1 is valid
+2015-11-05T09:03:33.828Z - info: Dining room id 3 is valid
+2015-11-05T09:03:33.829Z - info: Dining room id 1 is valid
+2015-11-05T09:03:34.112Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:34.142Z - info: Dining room id 2 is valid
+2015-11-05T09:03:34.217Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:34.241Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:34.332Z - info: Dining room id 3 is valid
+2015-11-05T09:03:34.333Z - info: Dining room id 2 is valid
+2015-11-05T09:03:34.646Z - info: Dining room id 3 is valid
+2015-11-05T09:03:34.836Z - info: Dining room id 1 is valid
+2015-11-05T09:03:34.837Z - info: Dining room id 2 is valid
+2015-11-05T09:03:35.118Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:35.150Z - info: Dining room id 1 is valid
+2015-11-05T09:03:35.221Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:35.244Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:35.339Z - info: Dining room id 1 is valid
+2015-11-05T09:03:35.341Z - info: Dining room id 3 is valid
+2015-11-05T09:03:35.654Z - info: Dining room id 3 is valid
+2015-11-05T09:03:35.844Z - info: Dining room id 3 is valid
+2015-11-05T09:03:35.845Z - info: Dining room id 3 is valid
+2015-11-05T09:03:36.123Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:36.158Z - info: Dining room id 3 is valid
+2015-11-05T09:03:36.225Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:36.248Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:36.349Z - info: Dining room id 1 is valid
+2015-11-05T09:03:36.350Z - info: Dining room id 2 is valid
+2015-11-05T09:03:36.662Z - info: Dining room id 2 is valid
+2015-11-05T09:03:36.853Z - info: Dining room id 1 is valid
+2015-11-05T09:03:36.854Z - info: Dining room id 2 is valid
+2015-11-05T09:03:37.127Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:37.166Z - info: Dining room id 3 is valid
+2015-11-05T09:03:37.228Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:37.251Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:37.356Z - info: Dining room id 3 is valid
+2015-11-05T09:03:37.358Z - info: Dining room id 3 is valid
+2015-11-05T09:03:37.670Z - info: Dining room id 2 is valid
+2015-11-05T09:03:37.860Z - info: Dining room id 3 is valid
+2015-11-05T09:03:37.862Z - info: Dining room id 3 is valid
+2015-11-05T09:03:38.131Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:38.174Z - info: Dining room id 2 is valid
+2015-11-05T09:03:38.232Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:38.255Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:38.364Z - info: Dining room id 2 is valid
+2015-11-05T09:03:38.365Z - info: Dining room id 3 is valid
+2015-11-05T09:03:38.678Z - info: Dining room id 2 is valid
+2015-11-05T09:03:38.870Z - info: Dining room id 3 is valid
+2015-11-05T09:03:38.871Z - info: Dining room id 1 is valid
+2015-11-05T09:03:39.135Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:39.182Z - info: Dining room id 2 is valid
+2015-11-05T09:03:39.237Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:39.258Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:39.374Z - info: Dining room id 1 is valid
+2015-11-05T09:03:39.376Z - info: Dining room id 1 is valid
+2015-11-05T09:03:39.687Z - info: Dining room id 2 is valid
+2015-11-05T09:03:39.878Z - info: Dining room id 2 is valid
+2015-11-05T09:03:39.880Z - info: Dining room id 2 is valid
+2015-11-05T09:03:40.139Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:40.191Z - info: Dining room id 3 is valid
+2015-11-05T09:03:40.240Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:40.261Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:40.382Z - info: Dining room id 1 is valid
+2015-11-05T09:03:40.384Z - info: Dining room id 3 is valid
+2015-11-05T09:03:40.695Z - info: Dining room id 2 is valid
+2015-11-05T09:03:40.887Z - info: Dining room id 1 is valid
+2015-11-05T09:03:40.888Z - info: Dining room id 3 is valid
+2015-11-05T09:03:41.143Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:41.198Z - info: Dining room id 2 is valid
+2015-11-05T09:03:41.243Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:41.265Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:41.390Z - info: Dining room id 2 is valid
+2015-11-05T09:03:41.392Z - info: Dining room id 3 is valid
+2015-11-05T09:03:41.702Z - info: Dining room id 1 is valid
+2015-11-05T09:03:41.894Z - info: Dining room id 1 is valid
+2015-11-05T09:03:41.896Z - info: Dining room id 3 is valid
+2015-11-05T09:03:42.147Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:42.206Z - info: Dining room id 1 is valid
+2015-11-05T09:03:42.247Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:42.269Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:42.399Z - info: Dining room id 2 is valid
+2015-11-05T09:03:42.400Z - info: Dining room id 1 is valid
+2015-11-05T09:03:42.711Z - info: Dining room id 2 is valid
+2015-11-05T09:03:42.903Z - info: Dining room id 2 is valid
+2015-11-05T09:03:42.906Z - info: Dining room id 3 is valid
+2015-11-05T09:03:43.151Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:43.215Z - info: Dining room id 1 is valid
+2015-11-05T09:03:43.250Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:43.273Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:43.408Z - info: Dining room id 3 is valid
+2015-11-05T09:03:43.409Z - info: Dining room id 1 is valid
+2015-11-05T09:03:43.719Z - info: Dining room id 3 is valid
+2015-11-05T09:03:43.912Z - info: Dining room id 3 is valid
+2015-11-05T09:03:43.913Z - info: Dining room id 3 is valid
+2015-11-05T09:03:44.155Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:44.223Z - info: Dining room id 3 is valid
+2015-11-05T09:03:44.253Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:44.277Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:44.416Z - info: Dining room id 1 is valid
+2015-11-05T09:03:44.418Z - info: Dining room id 3 is valid
+2015-11-05T09:03:44.727Z - info: Dining room id 1 is valid
+2015-11-05T09:03:44.920Z - info: Dining room id 2 is valid
+2015-11-05T09:03:44.922Z - info: Dining room id 3 is valid
+2015-11-05T09:03:45.159Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:45.231Z - info: Dining room id 3 is valid
+2015-11-05T09:03:45.256Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:45.282Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:45.425Z - info: Dining room id 3 is valid
+2015-11-05T09:03:45.426Z - info: Dining room id 3 is valid
+2015-11-05T09:03:45.735Z - info: Dining room id 1 is valid
+2015-11-05T09:03:45.929Z - info: Dining room id 3 is valid
+2015-11-05T09:03:45.930Z - info: Dining room id 1 is valid
+2015-11-05T09:03:46.163Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:46.239Z - info: Dining room id 2 is valid
+2015-11-05T09:03:46.260Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:46.286Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:46.433Z - info: Dining room id 1 is valid
+2015-11-05T09:03:46.434Z - info: Dining room id 3 is valid
+2015-11-05T09:03:46.743Z - info: Dining room id 1 is valid
+2015-11-05T09:03:46.937Z - info: Dining room id 2 is valid
+2015-11-05T09:03:46.939Z - info: Dining room id 1 is valid
+2015-11-05T09:03:47.167Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:47.247Z - info: Dining room id 2 is valid
+2015-11-05T09:03:47.263Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:47.289Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:47.441Z - info: Dining room id 1 is valid
+2015-11-05T09:03:47.442Z - info: Dining room id 2 is valid
+2015-11-05T09:03:47.751Z - info: Dining room id 2 is valid
+2015-11-05T09:03:47.945Z - info: Dining room id 2 is valid
+2015-11-05T09:03:47.946Z - info: Dining room id 1 is valid
+2015-11-05T09:03:48.170Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:48.255Z - info: Dining room id 2 is valid
+2015-11-05T09:03:48.267Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:48.293Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:48.449Z - info: Dining room id 2 is valid
+2015-11-05T09:03:48.450Z - info: Dining room id 2 is valid
+2015-11-05T09:03:48.759Z - info: Dining room id 1 is valid
+2015-11-05T09:03:48.953Z - info: Dining room id 1 is valid
+2015-11-05T09:03:48.954Z - info: Dining room id 3 is valid
+2015-11-05T09:03:49.175Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:49.262Z - info: Dining room id 2 is valid
+2015-11-05T09:03:49.270Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:49.297Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:49.457Z - info: Dining room id 3 is valid
+2015-11-05T09:03:49.458Z - info: Dining room id 2 is valid
+2015-11-05T09:03:49.767Z - info: Dining room id 2 is valid
+2015-11-05T09:03:49.961Z - info: Dining room id 2 is valid
+2015-11-05T09:03:49.963Z - info: Dining room id 2 is valid
+2015-11-05T09:03:50.179Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:50.270Z - info: Dining room id 3 is valid
+2015-11-05T09:03:50.291Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:50.300Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:50.466Z - info: Dining room id 1 is valid
+2015-11-05T09:03:50.467Z - info: Dining room id 1 is valid
+2015-11-05T09:03:50.774Z - info: Dining room id 3 is valid
+2015-11-05T09:03:50.970Z - info: Dining room id 1 is valid
+2015-11-05T09:03:50.971Z - info: Dining room id 2 is valid
+2015-11-05T09:03:51.183Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:51.278Z - info: Dining room id 2 is valid
+2015-11-05T09:03:51.294Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:51.303Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:51.475Z - info: Dining room id 2 is valid
+2015-11-05T09:03:51.476Z - info: Dining room id 3 is valid
+2015-11-05T09:03:51.782Z - info: Dining room id 3 is valid
+2015-11-05T09:03:51.979Z - info: Dining room id 3 is valid
+2015-11-05T09:03:51.981Z - info: Dining room id 3 is valid
+2015-11-05T09:03:52.186Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:52.285Z - info: Dining room id 3 is valid
+2015-11-05T09:03:52.298Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:52.306Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:52.483Z - info: Dining room id 1 is valid
+2015-11-05T09:03:52.485Z - info: Dining room id 1 is valid
+2015-11-05T09:03:52.789Z - info: Dining room id 1 is valid
+2015-11-05T09:03:52.987Z - info: Dining room id 2 is valid
+2015-11-05T09:03:52.988Z - info: Dining room id 1 is valid
+2015-11-05T09:03:53.190Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:53.293Z - info: Dining room id 3 is valid
+2015-11-05T09:03:53.301Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:53.310Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:53.492Z - info: Dining room id 3 is valid
+2015-11-05T09:03:53.494Z - info: Dining room id 1 is valid
+2015-11-05T09:03:53.797Z - info: Dining room id 1 is valid
+2015-11-05T09:03:53.997Z - info: Dining room id 1 is valid
+2015-11-05T09:03:53.998Z - info: Dining room id 1 is valid
+2015-11-05T09:03:54.195Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:54.301Z - info: Dining room id 1 is valid
+2015-11-05T09:03:54.306Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:54.314Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:54.501Z - info: Dining room id 1 is valid
+2015-11-05T09:03:54.502Z - info: Dining room id 2 is valid
+2015-11-05T09:03:54.805Z - info: Dining room id 2 is valid
+2015-11-05T09:03:55.005Z - info: Dining room id 3 is valid
+2015-11-05T09:03:55.006Z - info: Dining room id 1 is valid
+2015-11-05T09:03:55.199Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:55.309Z - info: Dining room id 3 is valid
+2015-11-05T09:03:55.310Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:55.317Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:55.509Z - info: Dining room id 2 is valid
+2015-11-05T09:03:55.510Z - info: Dining room id 2 is valid
+2015-11-05T09:03:55.813Z - info: Dining room id 1 is valid
+2015-11-05T09:03:56.013Z - info: Dining room id 3 is valid
+2015-11-05T09:03:56.015Z - info: Dining room id 3 is valid
+2015-11-05T09:03:56.204Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:56.314Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:56.318Z - info: Dining room id 2 is valid
+2015-11-05T09:03:56.320Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:56.517Z - info: Dining room id 2 is valid
+2015-11-05T09:03:56.520Z - info: Dining room id 2 is valid
+2015-11-05T09:03:56.823Z - info: Dining room id 1 is valid
+2015-11-05T09:03:57.022Z - info: Dining room id 2 is valid
+2015-11-05T09:03:57.028Z - info: Dining room id 3 is valid
+2015-11-05T09:03:57.208Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:57.318Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:57.323Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:03:57.327Z - info: Dining room id 1 is valid
+2015-11-05T09:03:57.529Z - info: Dining room id 1 is valid
+2015-11-05T09:03:57.531Z - info: Dining room id 2 is valid
+2015-11-05T09:03:57.830Z - info: Dining room id 1 is valid
+2015-11-05T09:03:58.033Z - info: Dining room id 1 is valid
+2015-11-05T09:03:58.035Z - info: Dining room id 1 is valid
+2015-11-05T09:03:58.212Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:58.321Z - info: Dining room id 3 is invalid
+2015-11-05T09:03:58.326Z - info: Dining room id 3 is invalid
+2015-11-05T09:03:58.334Z - info: Dining room id 2 is valid
+2015-11-05T09:03:58.538Z - info: Dining room id 2 is valid
+2015-11-05T09:03:58.541Z - info: Dining room id 3 is valid
+2015-11-05T09:03:58.838Z - info: Dining room id 2 is valid
+2015-11-05T09:03:59.042Z - info: Dining room id 2 is valid
+2015-11-05T09:03:59.045Z - info: Dining room id 3 is valid
+2015-11-05T09:03:59.216Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:59.325Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:03:59.329Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:03:59.342Z - info: Dining room id 3 is valid
+2015-11-05T09:03:59.547Z - info: Dining room id 1 is valid
+2015-11-05T09:03:59.550Z - info: Dining room id 2 is valid
+2015-11-05T09:03:59.845Z - info: Dining room id 2 is valid
+2015-11-05T09:04:00.052Z - info: Dining room id 2 is valid
+2015-11-05T09:04:00.053Z - info: Dining room id 1 is valid
+2015-11-05T09:04:00.220Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:00.329Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:00.332Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:00.348Z - info: Dining room id 2 is valid
+2015-11-05T09:04:00.556Z - info: Dining room id 1 is valid
+2015-11-05T09:04:00.560Z - info: Dining room id 1 is valid
+2015-11-05T09:04:00.852Z - info: Dining room id 3 is valid
+2015-11-05T09:04:01.060Z - info: Dining room id 3 is valid
+2015-11-05T09:04:01.064Z - info: Dining room id 1 is valid
+2015-11-05T09:04:01.226Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:01.334Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:01.337Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:01.357Z - info: Dining room id 3 is valid
+2015-11-05T09:04:01.565Z - info: Dining room id 3 is valid
+2015-11-05T09:04:01.568Z - info: Dining room id 2 is valid
+2015-11-05T09:04:01.860Z - info: Dining room id 2 is valid
+2015-11-05T09:04:02.070Z - info: Dining room id 2 is valid
+2015-11-05T09:04:02.072Z - info: Dining room id 3 is valid
+2015-11-05T09:04:02.230Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:02.339Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:02.340Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:02.364Z - info: Dining room id 3 is valid
+2015-11-05T09:04:02.574Z - info: Dining room id 2 is valid
+2015-11-05T09:04:02.576Z - info: Dining room id 3 is valid
+2015-11-05T09:04:02.868Z - info: Dining room id 1 is valid
+2015-11-05T09:04:03.078Z - info: Dining room id 1 is valid
+2015-11-05T09:04:03.080Z - info: Dining room id 3 is valid
+2015-11-05T09:04:03.234Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:03.342Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:03.344Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:03.371Z - info: Dining room id 2 is valid
+2015-11-05T09:04:03.583Z - info: Dining room id 3 is valid
+2015-11-05T09:04:03.583Z - info: Dining room id 3 is valid
+2015-11-05T09:04:03.875Z - info: Dining room id 1 is valid
+2015-11-05T09:04:04.086Z - info: Dining room id 1 is valid
+2015-11-05T09:04:04.088Z - info: Dining room id 2 is valid
+2015-11-05T09:04:04.238Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:04.346Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:04.348Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:04.379Z - info: Dining room id 1 is valid
+2015-11-05T09:04:04.591Z - info: Dining room id 2 is valid
+2015-11-05T09:04:04.592Z - info: Dining room id 1 is valid
+2015-11-05T09:04:04.883Z - info: Dining room id 1 is valid
+2015-11-05T09:04:05.094Z - info: Dining room id 1 is valid
+2015-11-05T09:04:05.096Z - info: Dining room id 1 is valid
+2015-11-05T09:04:05.241Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:05.349Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:05.352Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:05.386Z - info: Dining room id 2 is valid
+2015-11-05T09:04:05.599Z - info: Dining room id 3 is valid
+2015-11-05T09:04:05.600Z - info: Dining room id 1 is valid
+2015-11-05T09:04:05.890Z - info: Dining room id 1 is valid
+2015-11-05T09:04:06.103Z - info: Dining room id 3 is valid
+2015-11-05T09:04:06.105Z - info: Dining room id 2 is valid
+2015-11-05T09:04:06.245Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:06.353Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:06.355Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:06.394Z - info: Dining room id 1 is valid
+2015-11-05T09:04:06.608Z - info: Dining room id 1 is valid
+2015-11-05T09:04:06.609Z - info: Dining room id 1 is valid
+2015-11-05T09:04:06.898Z - info: Dining room id 2 is valid
+2015-11-05T09:04:07.111Z - info: Dining room id 3 is valid
+2015-11-05T09:04:07.113Z - info: Dining room id 3 is valid
+2015-11-05T09:04:07.249Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:07.357Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:07.359Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:07.401Z - info: Dining room id 1 is valid
+2015-11-05T09:04:07.616Z - info: Dining room id 3 is valid
+2015-11-05T09:04:07.617Z - info: Dining room id 3 is valid
+2015-11-05T09:04:07.905Z - info: Dining room id 3 is valid
+2015-11-05T09:04:08.120Z - info: Dining room id 3 is valid
+2015-11-05T09:04:08.121Z - info: Dining room id 2 is valid
+2015-11-05T09:04:08.253Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:08.361Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:08.362Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:08.408Z - info: Dining room id 1 is valid
+2015-11-05T09:04:08.624Z - info: Dining room id 1 is valid
+2015-11-05T09:04:08.625Z - info: Dining room id 3 is valid
+2015-11-05T09:04:08.913Z - info: Dining room id 1 is valid
+2015-11-05T09:04:09.128Z - info: Dining room id 1 is valid
+2015-11-05T09:04:09.134Z - info: Dining room id 3 is valid
+2015-11-05T09:04:09.256Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:09.364Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:09.366Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:09.417Z - info: Dining room id 3 is valid
+2015-11-05T09:04:09.638Z - info: Dining room id 2 is valid
+2015-11-05T09:04:09.639Z - info: Dining room id 2 is valid
+2015-11-05T09:04:09.920Z - info: Dining room id 1 is valid
+2015-11-05T09:04:10.142Z - info: Dining room id 1 is valid
+2015-11-05T09:04:10.143Z - info: Dining room id 3 is valid
+2015-11-05T09:04:10.260Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:10.368Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:10.369Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:10.424Z - info: Dining room id 3 is valid
+2015-11-05T09:04:10.646Z - info: Dining room id 2 is valid
+2015-11-05T09:04:10.647Z - info: Dining room id 2 is valid
+2015-11-05T09:04:10.927Z - info: Dining room id 3 is valid
+2015-11-05T09:04:11.151Z - info: Dining room id 3 is valid
+2015-11-05T09:04:11.152Z - info: Dining room id 2 is valid
+2015-11-05T09:04:11.264Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:11.372Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:11.374Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:11.432Z - info: Dining room id 2 is valid
+2015-11-05T09:04:11.655Z - info: Dining room id 1 is valid
+2015-11-05T09:04:11.657Z - info: Dining room id 1 is valid
+2015-11-05T09:04:11.935Z - info: Dining room id 1 is valid
+2015-11-05T09:04:12.159Z - info: Dining room id 1 is valid
+2015-11-05T09:04:12.161Z - info: Dining room id 3 is valid
+2015-11-05T09:04:12.268Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:12.376Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:12.377Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:12.439Z - info: Dining room id 2 is valid
+2015-11-05T09:04:12.664Z - info: Dining room id 3 is valid
+2015-11-05T09:04:12.665Z - info: Dining room id 1 is valid
+2015-11-05T09:04:12.942Z - info: Dining room id 2 is valid
+2015-11-05T09:04:13.168Z - info: Dining room id 3 is valid
+2015-11-05T09:04:13.170Z - info: Dining room id 2 is valid
+2015-11-05T09:04:13.271Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:13.379Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:13.380Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:13.446Z - info: Dining room id 2 is valid
+2015-11-05T09:04:13.672Z - info: Dining room id 1 is valid
+2015-11-05T09:04:13.674Z - info: Dining room id 3 is valid
+2015-11-05T09:04:13.949Z - info: Dining room id 1 is valid
+2015-11-05T09:04:14.176Z - info: Dining room id 3 is valid
+2015-11-05T09:04:14.177Z - info: Dining room id 1 is valid
+2015-11-05T09:04:14.277Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:14.383Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:14.384Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:14.453Z - info: Dining room id 1 is valid
+2015-11-05T09:04:14.680Z - info: Dining room id 3 is valid
+2015-11-05T09:04:14.682Z - info: Dining room id 3 is valid
+2015-11-05T09:04:14.957Z - info: Dining room id 2 is valid
+2015-11-05T09:04:15.184Z - info: Dining room id 3 is valid
+2015-11-05T09:04:15.186Z - info: Dining room id 3 is valid
+2015-11-05T09:04:15.281Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:15.387Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:15.388Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:15.460Z - info: Dining room id 3 is valid
+2015-11-05T09:04:15.689Z - info: Dining room id 3 is valid
+2015-11-05T09:04:15.689Z - info: Dining room id 3 is valid
+2015-11-05T09:04:15.964Z - info: Dining room id 2 is valid
+2015-11-05T09:04:16.193Z - info: Dining room id 1 is valid
+2015-11-05T09:04:16.194Z - info: Dining room id 2 is valid
+2015-11-05T09:04:16.285Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:16.390Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:16.392Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:16.468Z - info: Dining room id 1 is valid
+2015-11-05T09:04:16.697Z - info: Dining room id 2 is valid
+2015-11-05T09:04:16.699Z - info: Dining room id 2 is valid
+2015-11-05T09:04:16.972Z - info: Dining room id 2 is valid
+2015-11-05T09:04:17.201Z - info: Dining room id 3 is valid
+2015-11-05T09:04:17.202Z - info: Dining room id 3 is valid
+2015-11-05T09:04:17.288Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:17.394Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:17.395Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:17.476Z - info: Dining room id 2 is valid
+2015-11-05T09:04:17.705Z - info: Dining room id 3 is valid
+2015-11-05T09:04:17.706Z - info: Dining room id 1 is valid
+2015-11-05T09:04:17.979Z - info: Dining room id 3 is valid
+2015-11-05T09:04:18.209Z - info: Dining room id 2 is valid
+2015-11-05T09:04:18.211Z - info: Dining room id 1 is valid
+2015-11-05T09:04:18.292Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:18.398Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:18.399Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:18.483Z - info: Dining room id 2 is valid
+2015-11-05T09:04:18.713Z - info: Dining room id 1 is valid
+2015-11-05T09:04:18.714Z - info: Dining room id 1 is valid
+2015-11-05T09:04:18.987Z - info: Dining room id 2 is valid
+2015-11-05T09:04:19.217Z - info: Dining room id 1 is valid
+2015-11-05T09:04:19.219Z - info: Dining room id 3 is valid
+2015-11-05T09:04:19.295Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:19.401Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:19.403Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:19.491Z - info: Dining room id 2 is valid
+2015-11-05T09:04:19.721Z - info: Dining room id 3 is valid
+2015-11-05T09:04:19.723Z - info: Dining room id 3 is valid
+2015-11-05T09:04:19.995Z - info: Dining room id 3 is valid
+2015-11-05T09:04:20.225Z - info: Dining room id 2 is valid
+2015-11-05T09:04:20.226Z - info: Dining room id 3 is valid
+2015-11-05T09:04:20.298Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:20.405Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:20.406Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:20.499Z - info: Dining room id 3 is valid
+2015-11-05T09:04:20.729Z - info: Dining room id 3 is valid
+2015-11-05T09:04:20.731Z - info: Dining room id 1 is valid
+2015-11-05T09:04:21.003Z - info: Dining room id 1 is valid
+2015-11-05T09:04:21.233Z - info: Dining room id 1 is valid
+2015-11-05T09:04:21.235Z - info: Dining room id 3 is valid
+2015-11-05T09:04:21.301Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:21.408Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:21.410Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:21.507Z - info: Dining room id 1 is valid
+2015-11-05T09:04:21.738Z - info: Dining room id 1 is valid
+2015-11-05T09:04:21.739Z - info: Dining room id 1 is valid
+2015-11-05T09:04:22.011Z - info: Dining room id 1 is valid
+2015-11-05T09:04:22.242Z - info: Dining room id 1 is valid
+2015-11-05T09:04:22.243Z - info: Dining room id 2 is valid
+2015-11-05T09:04:22.305Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:22.412Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:22.414Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:22.515Z - info: Dining room id 1 is valid
+2015-11-05T09:04:22.745Z - info: Dining room id 2 is valid
+2015-11-05T09:04:22.748Z - info: Dining room id 2 is valid
+2015-11-05T09:04:23.019Z - info: Dining room id 2 is valid
+2015-11-05T09:04:23.250Z - info: Dining room id 3 is valid
+2015-11-05T09:04:23.261Z - info: Dining room id 1 is valid
+2015-11-05T09:04:23.308Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:23.415Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:23.417Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:23.522Z - info: Dining room id 1 is valid
+2015-11-05T09:04:23.754Z - info: Dining room id 2 is valid
+2015-11-05T09:04:23.764Z - info: Dining room id 3 is valid
+2015-11-05T09:04:24.026Z - info: Dining room id 1 is valid
+2015-11-05T09:04:24.257Z - info: Dining room id 2 is valid
+2015-11-05T09:04:24.268Z - info: Dining room id 2 is valid
+2015-11-05T09:04:24.311Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:24.419Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:24.420Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:24.530Z - info: Dining room id 2 is valid
+2015-11-05T09:04:24.761Z - info: Dining room id 2 is valid
+2015-11-05T09:04:24.771Z - info: Dining room id 3 is valid
+2015-11-05T09:04:25.034Z - info: Dining room id 3 is valid
+2015-11-05T09:04:25.265Z - info: Dining room id 1 is valid
+2015-11-05T09:04:25.275Z - info: Dining room id 3 is valid
+2015-11-05T09:04:25.314Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:25.423Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:25.424Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:25.538Z - info: Dining room id 1 is valid
+2015-11-05T09:04:25.769Z - info: Dining room id 2 is valid
+2015-11-05T09:04:25.779Z - info: Dining room id 2 is valid
+2015-11-05T09:04:26.041Z - info: Dining room id 3 is valid
+2015-11-05T09:04:26.273Z - info: Dining room id 2 is valid
+2015-11-05T09:04:26.282Z - info: Dining room id 3 is valid
+2015-11-05T09:04:26.317Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:26.426Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:26.428Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:26.545Z - info: Dining room id 3 is valid
+2015-11-05T09:04:26.776Z - info: Dining room id 3 is valid
+2015-11-05T09:04:26.786Z - info: Dining room id 3 is valid
+2015-11-05T09:04:27.049Z - info: Dining room id 3 is valid
+2015-11-05T09:04:27.280Z - info: Dining room id 1 is valid
+2015-11-05T09:04:27.289Z - info: Dining room id 1 is valid
+2015-11-05T09:04:27.320Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:27.430Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:27.432Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:27.554Z - info: Dining room id 1 is valid
+2015-11-05T09:04:27.784Z - info: Dining room id 3 is valid
+2015-11-05T09:04:27.792Z - info: Dining room id 3 is valid
+2015-11-05T09:04:28.059Z - info: Dining room id 3 is valid
+2015-11-05T09:04:28.288Z - info: Dining room id 1 is valid
+2015-11-05T09:04:28.295Z - info: Dining room id 2 is valid
+2015-11-05T09:04:28.323Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:28.434Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:28.435Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:28.564Z - info: Dining room id 2 is valid
+2015-11-05T09:04:28.793Z - info: Dining room id 3 is valid
+2015-11-05T09:04:28.799Z - info: Dining room id 2 is valid
+2015-11-05T09:04:29.068Z - info: Dining room id 2 is valid
+2015-11-05T09:04:29.297Z - info: Dining room id 2 is valid
+2015-11-05T09:04:29.302Z - info: Dining room id 3 is valid
+2015-11-05T09:04:29.327Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:29.438Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:29.440Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:29.572Z - info: Dining room id 2 is valid
+2015-11-05T09:04:29.801Z - info: Dining room id 2 is valid
+2015-11-05T09:04:29.805Z - info: Dining room id 3 is valid
+2015-11-05T09:04:30.075Z - info: Dining room id 1 is valid
+2015-11-05T09:04:30.305Z - info: Dining room id 3 is valid
+2015-11-05T09:04:30.309Z - info: Dining room id 3 is valid
+2015-11-05T09:04:30.331Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:30.442Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:30.443Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:30.580Z - info: Dining room id 3 is valid
+2015-11-05T09:04:30.809Z - info: Dining room id 3 is valid
+2015-11-05T09:04:30.812Z - info: Dining room id 2 is valid
+2015-11-05T09:04:31.083Z - info: Dining room id 2 is valid
+2015-11-05T09:04:31.313Z - info: Dining room id 2 is valid
+2015-11-05T09:04:31.316Z - info: Dining room id 2 is valid
+2015-11-05T09:04:31.334Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:31.445Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:31.447Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:31.587Z - info: Dining room id 1 is valid
+2015-11-05T09:04:31.818Z - info: Dining room id 1 is valid
+2015-11-05T09:04:31.820Z - info: Dining room id 1 is valid
+2015-11-05T09:04:32.091Z - info: Dining room id 1 is valid
+2015-11-05T09:04:32.322Z - info: Dining room id 1 is valid
+2015-11-05T09:04:32.324Z - info: Dining room id 1 is valid
+2015-11-05T09:04:32.337Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:32.449Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:32.450Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:32.595Z - info: Dining room id 2 is valid
+2015-11-05T09:04:32.826Z - info: Dining room id 1 is valid
+2015-11-05T09:04:32.828Z - info: Dining room id 1 is valid
+2015-11-05T09:04:33.099Z - info: Dining room id 3 is valid
+2015-11-05T09:04:33.331Z - info: Dining room id 1 is valid
+2015-11-05T09:04:33.333Z - info: Dining room id 3 is valid
+2015-11-05T09:04:33.340Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:33.452Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:33.454Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:33.603Z - info: Dining room id 1 is valid
+2015-11-05T09:04:33.835Z - info: Dining room id 2 is valid
+2015-11-05T09:04:33.837Z - info: Dining room id 2 is valid
+2015-11-05T09:04:34.107Z - info: Dining room id 3 is valid
+2015-11-05T09:04:34.340Z - info: Dining room id 1 is valid
+2015-11-05T09:04:34.341Z - info: Dining room id 1 is valid
+2015-11-05T09:04:34.344Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:34.456Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:34.458Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:34.611Z - info: Dining room id 1 is valid
+2015-11-05T09:04:34.846Z - info: Dining room id 1 is valid
+2015-11-05T09:04:34.847Z - info: Dining room id 2 is valid
+2015-11-05T09:04:35.116Z - info: Dining room id 3 is valid
+2015-11-05T09:04:35.348Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:35.350Z - info: Dining room id 2 is valid
+2015-11-05T09:04:35.352Z - info: Dining room id 1 is valid
+2015-11-05T09:04:35.460Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:35.461Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:35.620Z - info: Dining room id 3 is valid
+2015-11-05T09:04:35.854Z - info: Dining room id 3 is valid
+2015-11-05T09:04:35.856Z - info: Dining room id 3 is valid
+2015-11-05T09:04:36.123Z - info: Dining room id 2 is valid
+2015-11-05T09:04:36.353Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:36.358Z - info: Dining room id 3 is valid
+2015-11-05T09:04:36.360Z - info: Dining room id 2 is valid
+2015-11-05T09:04:36.463Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:36.464Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:36.628Z - info: Dining room id 1 is valid
+2015-11-05T09:04:36.862Z - info: Dining room id 1 is valid
+2015-11-05T09:04:36.864Z - info: Dining room id 3 is valid
+2015-11-05T09:04:37.132Z - info: Dining room id 2 is valid
+2015-11-05T09:04:37.357Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:37.366Z - info: Dining room id 2 is valid
+2015-11-05T09:04:37.367Z - info: Dining room id 2 is valid
+2015-11-05T09:04:37.466Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:37.467Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:37.636Z - info: Dining room id 2 is valid
+2015-11-05T09:04:37.870Z - info: Dining room id 1 is valid
+2015-11-05T09:04:37.871Z - info: Dining room id 3 is valid
+2015-11-05T09:04:38.140Z - info: Dining room id 2 is valid
+2015-11-05T09:04:38.361Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:38.373Z - info: Dining room id 2 is valid
+2015-11-05T09:04:38.375Z - info: Dining room id 3 is valid
+2015-11-05T09:04:38.471Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:38.473Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:38.644Z - info: Dining room id 2 is valid
+2015-11-05T09:04:38.878Z - info: Dining room id 3 is valid
+2015-11-05T09:04:38.879Z - info: Dining room id 3 is valid
+2015-11-05T09:04:39.148Z - info: Dining room id 1 is valid
+2015-11-05T09:04:39.365Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:39.381Z - info: Dining room id 2 is valid
+2015-11-05T09:04:39.383Z - info: Dining room id 3 is valid
+2015-11-05T09:04:39.475Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:39.476Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:39.651Z - info: Dining room id 3 is valid
+2015-11-05T09:04:39.885Z - info: Dining room id 1 is valid
+2015-11-05T09:04:39.887Z - info: Dining room id 1 is valid
+2015-11-05T09:04:40.156Z - info: Dining room id 1 is valid
+2015-11-05T09:04:40.368Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:40.389Z - info: Dining room id 2 is valid
+2015-11-05T09:04:40.391Z - info: Dining room id 2 is valid
+2015-11-05T09:04:40.479Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:40.480Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:40.659Z - info: Dining room id 2 is valid
+2015-11-05T09:04:40.893Z - info: Dining room id 2 is valid
+2015-11-05T09:04:40.896Z - info: Dining room id 2 is valid
+2015-11-05T09:04:41.163Z - info: Dining room id 1 is valid
+2015-11-05T09:04:41.372Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:41.397Z - info: Dining room id 2 is valid
+2015-11-05T09:04:41.399Z - info: Dining room id 1 is valid
+2015-11-05T09:04:41.483Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:41.484Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:41.667Z - info: Dining room id 3 is valid
+2015-11-05T09:04:41.901Z - info: Dining room id 1 is valid
+2015-11-05T09:04:41.905Z - info: Dining room id 3 is valid
+2015-11-05T09:04:42.171Z - info: Dining room id 2 is valid
+2015-11-05T09:04:42.375Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:42.408Z - info: Dining room id 2 is valid
+2015-11-05T09:04:42.409Z - info: Dining room id 1 is valid
+2015-11-05T09:04:42.487Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:42.488Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:42.675Z - info: Dining room id 1 is valid
+2015-11-05T09:04:42.912Z - info: Dining room id 2 is valid
+2015-11-05T09:04:42.913Z - info: Dining room id 3 is valid
+2015-11-05T09:04:43.179Z - info: Dining room id 2 is valid
+2015-11-05T09:04:43.379Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:43.416Z - info: Dining room id 2 is valid
+2015-11-05T09:04:43.418Z - info: Dining room id 1 is valid
+2015-11-05T09:04:43.491Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:43.492Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:43.683Z - info: Dining room id 3 is valid
+2015-11-05T09:04:43.920Z - info: Dining room id 3 is valid
+2015-11-05T09:04:43.921Z - info: Dining room id 3 is valid
+2015-11-05T09:04:44.187Z - info: Dining room id 1 is valid
+2015-11-05T09:04:44.383Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:44.424Z - info: Dining room id 3 is valid
+2015-11-05T09:04:44.426Z - info: Dining room id 1 is valid
+2015-11-05T09:04:44.495Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:44.495Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:44.691Z - info: Dining room id 3 is valid
+2015-11-05T09:04:44.928Z - info: Dining room id 1 is valid
+2015-11-05T09:04:44.930Z - info: Dining room id 2 is valid
+2015-11-05T09:04:45.195Z - info: Dining room id 3 is valid
+2015-11-05T09:04:45.387Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:45.432Z - info: Dining room id 1 is valid
+2015-11-05T09:04:45.433Z - info: Dining room id 1 is valid
+2015-11-05T09:04:45.499Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:45.500Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:45.699Z - info: Dining room id 3 is valid
+2015-11-05T09:04:45.937Z - info: Dining room id 1 is valid
+2015-11-05T09:04:45.939Z - info: Dining room id 2 is valid
+2015-11-05T09:04:46.204Z - info: Dining room id 2 is valid
+2015-11-05T09:04:46.391Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:46.441Z - info: Dining room id 1 is valid
+2015-11-05T09:04:46.442Z - info: Dining room id 2 is valid
+2015-11-05T09:04:46.504Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:46.505Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:46.707Z - info: Dining room id 3 is valid
+2015-11-05T09:04:46.945Z - info: Dining room id 1 is valid
+2015-11-05T09:04:46.946Z - info: Dining room id 1 is valid
+2015-11-05T09:04:47.211Z - info: Dining room id 3 is valid
+2015-11-05T09:04:47.395Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:47.449Z - info: Dining room id 1 is valid
+2015-11-05T09:04:47.450Z - info: Dining room id 3 is valid
+2015-11-05T09:04:47.508Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:47.509Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:47.716Z - info: Dining room id 2 is valid
+2015-11-05T09:04:47.953Z - info: Dining room id 2 is valid
+2015-11-05T09:04:47.955Z - info: Dining room id 1 is valid
+2015-11-05T09:04:48.219Z - info: Dining room id 3 is valid
+2015-11-05T09:04:48.399Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:48.457Z - info: Dining room id 3 is valid
+2015-11-05T09:04:48.458Z - info: Dining room id 3 is valid
+2015-11-05T09:04:48.512Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:48.513Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:48.723Z - info: Dining room id 2 is valid
+2015-11-05T09:04:48.961Z - info: Dining room id 2 is valid
+2015-11-05T09:04:48.963Z - info: Dining room id 2 is valid
+2015-11-05T09:04:49.227Z - info: Dining room id 1 is valid
+2015-11-05T09:04:49.403Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:49.465Z - info: Dining room id 2 is valid
+2015-11-05T09:04:49.466Z - info: Dining room id 1 is valid
+2015-11-05T09:04:49.516Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:49.517Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:49.731Z - info: Dining room id 2 is valid
+2015-11-05T09:04:49.969Z - info: Dining room id 3 is valid
+2015-11-05T09:04:49.970Z - info: Dining room id 2 is valid
+2015-11-05T09:04:50.235Z - info: Dining room id 2 is valid
+2015-11-05T09:04:50.406Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:50.474Z - info: Dining room id 1 is valid
+2015-11-05T09:04:50.476Z - info: Dining room id 3 is valid
+2015-11-05T09:04:50.520Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:50.520Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:50.739Z - info: Dining room id 2 is valid
+2015-11-05T09:04:50.978Z - info: Dining room id 1 is valid
+2015-11-05T09:04:50.980Z - info: Dining room id 3 is valid
+2015-11-05T09:04:51.242Z - info: Dining room id 1 is valid
+2015-11-05T09:04:51.410Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:51.483Z - info: Dining room id 2 is valid
+2015-11-05T09:04:51.484Z - info: Dining room id 3 is valid
+2015-11-05T09:04:51.523Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:51.524Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:51.746Z - info: Dining room id 1 is valid
+2015-11-05T09:04:51.987Z - info: Dining room id 2 is valid
+2015-11-05T09:04:51.988Z - info: Dining room id 1 is valid
+2015-11-05T09:04:52.250Z - info: Dining room id 2 is valid
+2015-11-05T09:04:52.414Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:52.491Z - info: Dining room id 2 is valid
+2015-11-05T09:04:52.494Z - info: Dining room id 1 is valid
+2015-11-05T09:04:52.527Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:52.528Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:52.754Z - info: Dining room id 2 is valid
+2015-11-05T09:04:52.996Z - info: Dining room id 2 is valid
+2015-11-05T09:04:52.998Z - info: Dining room id 2 is valid
+2015-11-05T09:04:53.258Z - info: Dining room id 1 is valid
+2015-11-05T09:04:53.418Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:53.501Z - info: Dining room id 3 is valid
+2015-11-05T09:04:53.502Z - info: Dining room id 1 is valid
+2015-11-05T09:04:53.531Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:53.532Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:53.762Z - info: Dining room id 2 is valid
+2015-11-05T09:04:54.005Z - info: Dining room id 2 is valid
+2015-11-05T09:04:54.007Z - info: Dining room id 3 is valid
+2015-11-05T09:04:54.266Z - info: Dining room id 3 is valid
+2015-11-05T09:04:54.421Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:54.511Z - info: Dining room id 2 is valid
+2015-11-05T09:04:54.512Z - info: Dining room id 2 is valid
+2015-11-05T09:04:54.534Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:54.536Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:54.770Z - info: Dining room id 3 is valid
+2015-11-05T09:04:55.015Z - info: Dining room id 3 is valid
+2015-11-05T09:04:55.016Z - info: Dining room id 3 is valid
+2015-11-05T09:04:55.274Z - info: Dining room id 3 is valid
+2015-11-05T09:04:55.425Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:55.519Z - info: Dining room id 1 is valid
+2015-11-05T09:04:55.521Z - info: Dining room id 1 is valid
+2015-11-05T09:04:55.538Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:55.539Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:55.778Z - info: Dining room id 2 is valid
+2015-11-05T09:04:56.023Z - info: Dining room id 1 is valid
+2015-11-05T09:04:56.024Z - info: Dining room id 2 is valid
+2015-11-05T09:04:56.281Z - info: Dining room id 1 is valid
+2015-11-05T09:04:56.428Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:56.528Z - info: Dining room id 3 is valid
+2015-11-05T09:04:56.528Z - info: Dining room id 2 is valid
+2015-11-05T09:04:56.541Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:56.543Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:56.785Z - info: Dining room id 1 is valid
+2015-11-05T09:04:57.032Z - info: Dining room id 1 is valid
+2015-11-05T09:04:57.033Z - info: Dining room id 2 is valid
+2015-11-05T09:04:57.289Z - info: Dining room id 1 is valid
+2015-11-05T09:04:57.432Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:57.536Z - info: Dining room id 3 is valid
+2015-11-05T09:04:57.537Z - info: Dining room id 3 is valid
+2015-11-05T09:04:57.544Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:57.546Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:57.793Z - info: Dining room id 3 is valid
+2015-11-05T09:04:58.040Z - info: Dining room id 2 is valid
+2015-11-05T09:04:58.041Z - info: Dining room id 2 is valid
+2015-11-05T09:04:58.297Z - info: Dining room id 3 is valid
+2015-11-05T09:04:58.435Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:58.544Z - info: Dining room id 2 is valid
+2015-11-05T09:04:58.546Z - info: Dining room id 1 is valid
+2015-11-05T09:04:58.548Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:58.549Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:58.801Z - info: Dining room id 3 is valid
+2015-11-05T09:04:59.049Z - info: Dining room id 1 is valid
+2015-11-05T09:04:59.051Z - info: Dining room id 3 is valid
+2015-11-05T09:04:59.305Z - info: Dining room id 1 is valid
+2015-11-05T09:04:59.439Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:04:59.552Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:04:59.553Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:04:59.554Z - info: Dining room id 2 is valid
+2015-11-05T09:04:59.556Z - info: Dining room id 2 is valid
+2015-11-05T09:04:59.809Z - info: Dining room id 2 is valid
+2015-11-05T09:05:00.059Z - info: Dining room id 1 is valid
+2015-11-05T09:05:00.060Z - info: Dining room id 3 is valid
+2015-11-05T09:05:00.313Z - info: Dining room id 1 is valid
+2015-11-05T09:05:00.442Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:00.557Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:00.559Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:00.562Z - info: Dining room id 3 is valid
+2015-11-05T09:05:00.564Z - info: Dining room id 2 is valid
+2015-11-05T09:05:00.817Z - info: Dining room id 3 is valid
+2015-11-05T09:05:01.066Z - info: Dining room id 2 is valid
+2015-11-05T09:05:01.068Z - info: Dining room id 1 is valid
+2015-11-05T09:05:01.321Z - info: Dining room id 1 is valid
+2015-11-05T09:05:01.446Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:01.561Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:01.562Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:01.570Z - info: Dining room id 3 is valid
+2015-11-05T09:05:01.572Z - info: Dining room id 3 is valid
+2015-11-05T09:05:01.825Z - info: Dining room id 3 is valid
+2015-11-05T09:05:02.075Z - info: Dining room id 3 is valid
+2015-11-05T09:05:02.076Z - info: Dining room id 1 is valid
+2015-11-05T09:05:02.329Z - info: Dining room id 3 is valid
+2015-11-05T09:05:02.450Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:02.566Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:02.567Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:02.578Z - info: Dining room id 1 is valid
+2015-11-05T09:05:02.580Z - info: Dining room id 3 is valid
+2015-11-05T09:05:02.832Z - info: Dining room id 3 is valid
+2015-11-05T09:05:03.083Z - info: Dining room id 3 is valid
+2015-11-05T09:05:03.083Z - info: Dining room id 2 is valid
+2015-11-05T09:05:03.337Z - info: Dining room id 3 is valid
+2015-11-05T09:05:03.455Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:03.571Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:03.572Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:03.587Z - info: Dining room id 3 is valid
+2015-11-05T09:05:03.589Z - info: Dining room id 1 is valid
+2015-11-05T09:05:03.841Z - info: Dining room id 3 is valid
+2015-11-05T09:05:04.091Z - info: Dining room id 1 is valid
+2015-11-05T09:05:04.092Z - info: Dining room id 2 is valid
+2015-11-05T09:05:04.345Z - info: Dining room id 3 is valid
+2015-11-05T09:05:04.459Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:04.575Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:04.576Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:04.595Z - info: Dining room id 1 is valid
+2015-11-05T09:05:04.597Z - info: Dining room id 2 is valid
+2015-11-05T09:05:04.850Z - info: Dining room id 1 is valid
+2015-11-05T09:05:05.099Z - info: Dining room id 3 is valid
+2015-11-05T09:05:05.100Z - info: Dining room id 1 is valid
+2015-11-05T09:05:05.354Z - info: Dining room id 2 is valid
+2015-11-05T09:05:05.463Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:05.579Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:05.580Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:05.603Z - info: Dining room id 2 is valid
+2015-11-05T09:05:05.604Z - info: Dining room id 3 is valid
+2015-11-05T09:05:05.858Z - info: Dining room id 2 is valid
+2015-11-05T09:05:06.107Z - info: Dining room id 3 is valid
+2015-11-05T09:05:06.109Z - info: Dining room id 3 is valid
+2015-11-05T09:05:06.363Z - info: Dining room id 1 is valid
+2015-11-05T09:05:06.466Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:06.584Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:06.585Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:06.611Z - info: Dining room id 2 is valid
+2015-11-05T09:05:06.612Z - info: Dining room id 3 is valid
+2015-11-05T09:05:06.867Z - info: Dining room id 1 is valid
+2015-11-05T09:05:07.115Z - info: Dining room id 1 is valid
+2015-11-05T09:05:07.116Z - info: Dining room id 1 is valid
+2015-11-05T09:05:07.371Z - info: Dining room id 3 is valid
+2015-11-05T09:05:07.469Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:07.588Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:07.589Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:07.619Z - info: Dining room id 3 is valid
+2015-11-05T09:05:07.620Z - info: Dining room id 1 is valid
+2015-11-05T09:05:07.875Z - info: Dining room id 1 is valid
+2015-11-05T09:05:08.123Z - info: Dining room id 3 is valid
+2015-11-05T09:05:08.125Z - info: Dining room id 3 is valid
+2015-11-05T09:05:08.379Z - info: Dining room id 1 is valid
+2015-11-05T09:05:08.475Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:08.592Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:08.593Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:08.627Z - info: Dining room id 1 is valid
+2015-11-05T09:05:08.629Z - info: Dining room id 1 is valid
+2015-11-05T09:05:08.883Z - info: Dining room id 2 is valid
+2015-11-05T09:05:09.131Z - info: Dining room id 1 is valid
+2015-11-05T09:05:09.133Z - info: Dining room id 3 is valid
+2015-11-05T09:05:09.387Z - info: Dining room id 2 is valid
+2015-11-05T09:05:09.479Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:09.596Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:09.597Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:09.635Z - info: Dining room id 2 is valid
+2015-11-05T09:05:09.637Z - info: Dining room id 3 is valid
+2015-11-05T09:05:09.891Z - info: Dining room id 3 is valid
+2015-11-05T09:05:10.140Z - info: Dining room id 2 is valid
+2015-11-05T09:05:10.141Z - info: Dining room id 1 is valid
+2015-11-05T09:05:10.394Z - info: Dining room id 3 is valid
+2015-11-05T09:05:10.483Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:10.600Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:10.601Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:10.644Z - info: Dining room id 1 is valid
+2015-11-05T09:05:10.645Z - info: Dining room id 2 is valid
+2015-11-05T09:05:10.898Z - info: Dining room id 3 is valid
+2015-11-05T09:05:11.148Z - info: Dining room id 1 is valid
+2015-11-05T09:05:11.150Z - info: Dining room id 2 is valid
+2015-11-05T09:05:11.402Z - info: Dining room id 2 is valid
+2015-11-05T09:05:11.488Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:11.604Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:11.605Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:11.652Z - info: Dining room id 3 is valid
+2015-11-05T09:05:11.653Z - info: Dining room id 2 is valid
+2015-11-05T09:05:11.906Z - info: Dining room id 2 is valid
+2015-11-05T09:05:12.157Z - info: Dining room id 2 is valid
+2015-11-05T09:05:12.158Z - info: Dining room id 1 is valid
+2015-11-05T09:05:12.411Z - info: Dining room id 1 is valid
+2015-11-05T09:05:12.491Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:12.608Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:12.609Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:12.662Z - info: Dining room id 3 is valid
+2015-11-05T09:05:12.663Z - info: Dining room id 3 is valid
+2015-11-05T09:05:12.915Z - info: Dining room id 2 is valid
+2015-11-05T09:05:13.166Z - info: Dining room id 2 is valid
+2015-11-05T09:05:13.167Z - info: Dining room id 3 is valid
+2015-11-05T09:05:13.418Z - info: Dining room id 1 is valid
+2015-11-05T09:05:13.495Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:13.611Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:13.613Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:13.670Z - info: Dining room id 1 is valid
+2015-11-05T09:05:13.671Z - info: Dining room id 3 is valid
+2015-11-05T09:05:13.923Z - info: Dining room id 2 is valid
+2015-11-05T09:05:14.174Z - info: Dining room id 3 is valid
+2015-11-05T09:05:14.176Z - info: Dining room id 3 is valid
+2015-11-05T09:05:14.426Z - info: Dining room id 1 is valid
+2015-11-05T09:05:14.499Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:14.615Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:14.616Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:14.678Z - info: Dining room id 2 is valid
+2015-11-05T09:05:14.679Z - info: Dining room id 3 is valid
+2015-11-05T09:05:14.930Z - info: Dining room id 3 is valid
+2015-11-05T09:05:15.182Z - info: Dining room id 2 is valid
+2015-11-05T09:05:15.183Z - info: Dining room id 3 is valid
+2015-11-05T09:05:15.435Z - info: Dining room id 3 is valid
+2015-11-05T09:05:15.503Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:15.619Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:15.620Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:15.686Z - info: Dining room id 1 is valid
+2015-11-05T09:05:15.689Z - info: Dining room id 2 is valid
+2015-11-05T09:05:15.940Z - info: Dining room id 1 is valid
+2015-11-05T09:05:16.192Z - info: Dining room id 1 is valid
+2015-11-05T09:05:16.193Z - info: Dining room id 2 is valid
+2015-11-05T09:05:16.443Z - info: Dining room id 3 is valid
+2015-11-05T09:05:16.507Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:16.624Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:16.625Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:16.697Z - info: Dining room id 3 is valid
+2015-11-05T09:05:16.697Z - info: Dining room id 3 is valid
+2015-11-05T09:05:16.947Z - info: Dining room id 3 is valid
+2015-11-05T09:05:17.200Z - info: Dining room id 2 is valid
+2015-11-05T09:05:17.202Z - info: Dining room id 1 is valid
+2015-11-05T09:05:17.451Z - info: Dining room id 1 is valid
+2015-11-05T09:05:17.510Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:17.628Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:17.629Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:17.704Z - info: Dining room id 1 is valid
+2015-11-05T09:05:17.706Z - info: Dining room id 2 is valid
+2015-11-05T09:05:17.955Z - info: Dining room id 2 is valid
+2015-11-05T09:05:18.209Z - info: Dining room id 3 is valid
+2015-11-05T09:05:18.210Z - info: Dining room id 3 is valid
+2015-11-05T09:05:18.459Z - info: Dining room id 2 is valid
+2015-11-05T09:05:18.514Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:18.631Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:18.633Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:18.712Z - info: Dining room id 1 is valid
+2015-11-05T09:05:18.714Z - info: Dining room id 3 is valid
+2015-11-05T09:05:18.963Z - info: Dining room id 1 is valid
+2015-11-05T09:05:19.217Z - info: Dining room id 1 is valid
+2015-11-05T09:05:19.218Z - info: Dining room id 3 is valid
+2015-11-05T09:05:19.467Z - info: Dining room id 3 is valid
+2015-11-05T09:05:19.518Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:19.635Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:19.636Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:19.721Z - info: Dining room id 3 is valid
+2015-11-05T09:05:19.723Z - info: Dining room id 3 is valid
+2015-11-05T09:05:19.970Z - info: Dining room id 3 is valid
+2015-11-05T09:05:20.226Z - info: Dining room id 3 is valid
+2015-11-05T09:05:20.227Z - info: Dining room id 3 is valid
+2015-11-05T09:05:20.474Z - info: Dining room id 2 is valid
+2015-11-05T09:05:20.522Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:20.639Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:20.641Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:20.729Z - info: Dining room id 1 is valid
+2015-11-05T09:05:20.731Z - info: Dining room id 3 is valid
+2015-11-05T09:05:20.979Z - info: Dining room id 3 is valid
+2015-11-05T09:05:21.234Z - info: Dining room id 2 is valid
+2015-11-05T09:05:21.236Z - info: Dining room id 3 is valid
+2015-11-05T09:05:21.483Z - info: Dining room id 1 is valid
+2015-11-05T09:05:21.527Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:21.644Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:21.645Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:21.739Z - info: Dining room id 2 is valid
+2015-11-05T09:05:21.740Z - info: Dining room id 1 is valid
+2015-11-05T09:05:21.987Z - info: Dining room id 2 is valid
+2015-11-05T09:05:22.243Z - info: Dining room id 1 is valid
+2015-11-05T09:05:22.244Z - info: Dining room id 2 is valid
+2015-11-05T09:05:22.491Z - info: Dining room id 2 is valid
+2015-11-05T09:05:22.530Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:22.648Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:22.649Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:22.746Z - info: Dining room id 2 is valid
+2015-11-05T09:05:22.748Z - info: Dining room id 1 is valid
+2015-11-05T09:05:22.995Z - info: Dining room id 3 is valid
+2015-11-05T09:05:23.250Z - info: Dining room id 3 is valid
+2015-11-05T09:05:23.252Z - info: Dining room id 2 is valid
+2015-11-05T09:05:23.499Z - info: Dining room id 1 is valid
+2015-11-05T09:05:23.533Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:23.651Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:23.653Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:23.755Z - info: Dining room id 1 is valid
+2015-11-05T09:05:23.756Z - info: Dining room id 1 is valid
+2015-11-05T09:05:24.002Z - info: Dining room id 1 is valid
+2015-11-05T09:05:24.259Z - info: Dining room id 3 is valid
+2015-11-05T09:05:24.260Z - info: Dining room id 1 is valid
+2015-11-05T09:05:24.506Z - info: Dining room id 1 is valid
+2015-11-05T09:05:24.536Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:24.655Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:24.656Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:24.762Z - info: Dining room id 2 is valid
+2015-11-05T09:05:24.764Z - info: Dining room id 3 is valid
+2015-11-05T09:05:25.010Z - info: Dining room id 2 is valid
+2015-11-05T09:05:25.266Z - info: Dining room id 1 is valid
+2015-11-05T09:05:25.268Z - info: Dining room id 1 is valid
+2015-11-05T09:05:25.514Z - info: Dining room id 2 is valid
+2015-11-05T09:05:25.539Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:25.659Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:25.660Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:25.770Z - info: Dining room id 3 is valid
+2015-11-05T09:05:25.772Z - info: Dining room id 3 is valid
+2015-11-05T09:05:26.018Z - info: Dining room id 1 is valid
+2015-11-05T09:05:26.274Z - info: Dining room id 1 is valid
+2015-11-05T09:05:26.276Z - info: Dining room id 3 is valid
+2015-11-05T09:05:26.522Z - info: Dining room id 1 is valid
+2015-11-05T09:05:26.543Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:26.662Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:26.664Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:26.778Z - info: Dining room id 2 is valid
+2015-11-05T09:05:26.780Z - info: Dining room id 2 is valid
+2015-11-05T09:05:27.026Z - info: Dining room id 3 is valid
+2015-11-05T09:05:27.283Z - info: Dining room id 1 is valid
+2015-11-05T09:05:27.284Z - info: Dining room id 1 is valid
+2015-11-05T09:05:27.530Z - info: Dining room id 3 is valid
+2015-11-05T09:05:27.546Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:27.666Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:27.667Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:27.787Z - info: Dining room id 2 is valid
+2015-11-05T09:05:27.788Z - info: Dining room id 1 is valid
+2015-11-05T09:05:28.034Z - info: Dining room id 2 is valid
+2015-11-05T09:05:28.291Z - info: Dining room id 3 is valid
+2015-11-05T09:05:28.293Z - info: Dining room id 1 is valid
+2015-11-05T09:05:28.538Z - info: Dining room id 1 is valid
+2015-11-05T09:05:28.549Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:28.670Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:28.671Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:28.796Z - info: Dining room id 1 is valid
+2015-11-05T09:05:28.798Z - info: Dining room id 2 is valid
+2015-11-05T09:05:29.042Z - info: Dining room id 2 is valid
+2015-11-05T09:05:29.300Z - info: Dining room id 3 is valid
+2015-11-05T09:05:29.302Z - info: Dining room id 1 is valid
+2015-11-05T09:05:29.546Z - info: Dining room id 3 is valid
+2015-11-05T09:05:29.552Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:29.674Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:29.675Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:29.804Z - info: Dining room id 1 is valid
+2015-11-05T09:05:29.806Z - info: Dining room id 2 is valid
+2015-11-05T09:05:30.050Z - info: Dining room id 3 is valid
+2015-11-05T09:05:30.308Z - info: Dining room id 1 is valid
+2015-11-05T09:05:30.310Z - info: Dining room id 3 is valid
+2015-11-05T09:05:30.553Z - info: Dining room id 3 is valid
+2015-11-05T09:05:30.555Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:30.678Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:30.679Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:30.812Z - info: Dining room id 1 is valid
+2015-11-05T09:05:30.814Z - info: Dining room id 2 is valid
+2015-11-05T09:05:31.058Z - info: Dining room id 2 is valid
+2015-11-05T09:05:31.317Z - info: Dining room id 3 is valid
+2015-11-05T09:05:31.318Z - info: Dining room id 3 is valid
+2015-11-05T09:05:31.559Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:31.561Z - info: Dining room id 2 is valid
+2015-11-05T09:05:31.682Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:31.683Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:31.821Z - info: Dining room id 1 is valid
+2015-11-05T09:05:31.822Z - info: Dining room id 2 is valid
+2015-11-05T09:05:32.065Z - info: Dining room id 3 is valid
+2015-11-05T09:05:32.325Z - info: Dining room id 3 is valid
+2015-11-05T09:05:32.326Z - info: Dining room id 1 is valid
+2015-11-05T09:05:32.563Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:32.568Z - info: Dining room id 2 is valid
+2015-11-05T09:05:32.801Z - info: Dining room id 3 is valid
+2015-11-05T09:05:32.801Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:33.307Z - info: Dining room id 1 is valid
+2015-11-05T09:05:33.808Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:33.812Z - info: Dining room id 2 is valid
+2015-11-05T09:05:34.319Z - info: Dining room id 2 is valid
+2015-11-05T09:05:34.812Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:34.836Z - info: Dining room id 2 is valid
+2015-11-05T09:05:35.340Z - info: Dining room id 1 is valid
+2015-11-05T09:05:35.815Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:35.842Z - info: Dining room id 3 is valid
+2015-11-05T09:05:36.401Z - info: Dining room id 1 is valid
+2015-11-05T09:05:40.873Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:40.976Z - info: Dining room id 1 is valid
+2015-11-05T09:05:43.006Z - info: Dining room id 3 is valid
+2015-11-05T09:05:46.118Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:05:46.264Z - info: Dining room id 3 is valid
+2015-11-05T09:05:46.768Z - info: Dining room id 1 is valid
+2015-11-05T09:05:47.122Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:47.272Z - info: Dining room id 2 is valid
+2015-11-05T09:05:47.776Z - info: Dining room id 1 is valid
+2015-11-05T09:05:48.125Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:05:48.279Z - info: Dining room id 3 is valid
+2015-11-05T09:05:48.783Z - info: Dining room id 3 is valid
+2015-11-05T09:05:51.595Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:05:51.781Z - info: Dining room id 3 is valid
+2015-11-05T09:05:53.626Z - info: Dining room id 1 is valid
+2015-11-05T09:06:06.507Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:06:06.739Z - info: Dining room id 3 is valid
+2015-11-05T09:06:57.230Z - info: Dining room id 2 is valid
+2015-11-05T09:06:57.469Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:06:57.736Z - info: Dining room id 3 is valid
+2015-11-05T09:06:58.240Z - info: Dining room id 3 is valid
+2015-11-05T09:06:58.473Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:06:58.744Z - info: Dining room id 1 is valid
+2015-11-05T09:06:59.248Z - info: Dining room id 2 is valid
+2015-11-05T09:06:59.477Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:06:59.753Z - info: Dining room id 3 is valid
+2015-11-05T09:07:00.257Z - info: Dining room id 1 is valid
+2015-11-05T09:07:00.481Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:07:00.761Z - info: Dining room id 1 is valid
+2015-11-05T09:07:01.265Z - info: Dining room id 3 is valid
+2015-11-05T09:07:01.485Z - info: delete - Dining room id 3 is valid
+2015-11-05T09:07:01.769Z - info: Dining room id 1 is valid
+2015-11-05T09:07:02.274Z - info: Dining room id 1 is valid
+2015-11-05T09:07:02.489Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:07:02.778Z - info: Dining room id 2 is valid
+2015-11-05T09:07:03.282Z - info: Dining room id 2 is valid
+2015-11-05T09:07:03.493Z - info: delete - Dining room id 1 is valid
+2015-11-05T09:07:03.787Z - info: Dining room id 3 is valid
+2015-11-05T09:07:04.291Z - info: Dining room id 1 is valid
+2015-11-05T09:07:04.497Z - info: delete - Dining room id 2 is valid
+2015-11-05T09:07:04.795Z - info: Dining room id 1 is valid
