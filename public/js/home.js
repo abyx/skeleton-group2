@@ -1,6 +1,7 @@
 angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceShareStatusRepository,PlaceshareaddRepository,ContextRepository,$q,$timeout,$scope,$interval) {
   var self = this;
-  self.greeting = 'World';
+    self.audio = new Audio('images/ding.wav');
+    self.alert = false;
   
   //self.placeShareStatus = [{name: 'AA',status: 'Y',upDate: new Date(),imageUrl: '../images/R.jpg'},{name: 'BB',status: 'Y',upDate: new Date(),imageUrl: '../images/Y.jpg'},{name: 'CC',status: 'Y',upDate: new Date(),imageUrl: '../images/Y.jpg'}];
    
@@ -71,6 +72,8 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
 							imageUrl: '../images/' + Light + '.jpg',
                             freePlaces:room.capacity - status.currentOccupancy
 						});
+
+                        alertOpenDR();
 
 					}
 				});
@@ -166,7 +169,17 @@ angular.module('app').controller('HomeCtrl', function(ConfigRepository,GetPlaceS
         return self.placeShareStatus[room - 1].name
     }
 
-
+    function alertOpenDR() {
+        if (!self.alert) return;
+        var toAlert;
+        toAlert = self.placeShareStatus.find(function (room) {
+            return room.status == 'G'
+        });
+        if (toAlert) {
+            self.audio.play()
+            self.alert = false;
+        };
+    }
   self.buttonClicked = function() {
     if (self.model.text === '') {
       alert('Please enter text in the input field');
